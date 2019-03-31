@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2018.3.9)  31 MAR 2019 17:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2018.3.9)  31 MAR 2019 18:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -309,18 +309,23 @@ File: UTF8.enc 2015/04/18 4.8.4
 (d:/texlive/texmf-dist/tex/latex/cjk/texinput/utf8/UTF8.chr
 File: UTF8.chr 2015/04/18 4.8.4
 )
-LaTeX Font Info:    Try loading font information for C70+song on input line 30.
+LaTeX Font Info:    Try loading font information for C70+gbsn on input line 30.
 
 
-(d:/texlive/texmf-dist/tex/latex/cjk/texinput/utf8/c70song.fd
-File: c70song.fd 2015/04/18 4.8.4
-) (./Éè¼ÆÖÆÔì2.toc
+(d:/texlive/texmf-dist/tex/latex/cjk/texinput/utf8/c70gbsn.fd
+File: c70gbsn.fd 2015/04/18 4.8.4
+)
+(d:/texlive/texmf-dist/tex/latex/cjk/texinput/utf8/c70gbsn.fdx
+File: c70gbsn.fdx 2015/04/18 4.8.4
+)
+(./Éè¼ÆÖÆÔì2.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 2.
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -342,46 +347,46 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 48.
  [4] [5]
-<chap1//fig1.jpg, id=106, 376.40625pt x 282.30469pt>
+<chap1//fig1.jpg, id=91, 376.40625pt x 282.30469pt>
 File: chap1//fig1.jpg Graphic file (type jpg)
 <use chap1//fig1.jpg>
 Package pdftex.def Info: chap1//fig1.jpg  used on input line 92.
 (pdftex.def)             Requested size: 312.00119pt x 234.0156pt.
-<chap1//fig2.jpg, id=107, 1026.08344pt x 549.55313pt>
+<chap1//fig2.jpg, id=92, 1026.08344pt x 549.55313pt>
 File: chap1//fig2.jpg Graphic file (type jpg)
 <use chap1//fig2.jpg>
 Package pdftex.def Info: chap1//fig2.jpg  used on input line 97.
 (pdftex.def)             Requested size: 312.00119pt x 167.09775pt.
  [6 <./chap1//fig1.jpg>]
-<chap1//fig3.jpg, id=118, 376.40625pt x 268.75406pt>
+<chap1//fig3.jpg, id=96, 376.40625pt x 268.75406pt>
 File: chap1//fig3.jpg Graphic file (type jpg)
 <use chap1//fig3.jpg>
 Package pdftex.def Info: chap1//fig3.jpg  used on input line 106.
 (pdftex.def)             Requested size: 312.00119pt x 222.78285pt.
  [7 <./chap1//fig2.jpg> <./chap1//fig3.jpg>]
-<chap1//fig4.jpg, id=124, 236.5638pt x 167.6664pt>
+<chap1//fig4.jpg, id=102, 236.5638pt x 167.6664pt>
 File: chap1//fig4.jpg Graphic file (type jpg)
 <use chap1//fig4.jpg>
 Package pdftex.def Info: chap1//fig4.jpg  used on input line 115.
 (pdftex.def)             Requested size: 312.00119pt x 221.13354pt.
  [8 <./chap1//fig4.jpg>]
-<chap2//fig2.jpg, id=129, 304.4976pt x 165.7392pt>
+<chap2//fig2.jpg, id=107, 304.4976pt x 165.7392pt>
 File: chap2//fig2.jpg Graphic file (type jpg)
 <use chap2//fig2.jpg>
 Package pdftex.def Info: chap2//fig2.jpg  used on input line 140.
 (pdftex.def)             Requested size: 312.00119pt x 169.83823pt.
-<chap2//fig1.jpg, id=130, 267.399pt x 200.7135pt>
+<chap2//fig1.jpg, id=108, 267.399pt x 200.7135pt>
 File: chap2//fig1.jpg Graphic file (type jpg)
 <use chap2//fig1.jpg>
 Package pdftex.def Info: chap2//fig1.jpg  used on input line 145.
 (pdftex.def)             Requested size: 312.00119pt x 234.21211pt.
  [9]
-<chap2//figa.jpg, id=142, 629.9535pt x 367.3725pt>
+<chap2//figa.jpg, id=112, 629.9535pt x 367.3725pt>
 File: chap2//figa.jpg Graphic file (type jpg)
 <use chap2//figa.jpg>
 Package pdftex.def Info: chap2//figa.jpg  used on input line 150.
 (pdftex.def)             Requested size: 312.00119pt x 181.95364pt.
-<chap2//figb.jpg, id=143, 358.33875pt x 355.82938pt>
+<chap2//figb.jpg, id=113, 358.33875pt x 355.82938pt>
 File: chap2//figb.jpg Graphic file (type jpg)
 <use chap2//figb.jpg>
 Package pdftex.def Info: chap2//figb.jpg  used on input line 155.
@@ -389,33 +394,33 @@ Package pdftex.def Info: chap2//figb.jpg  used on input line 155.
 
 [10 <./chap2//fig2.jpg> <./chap2//fig1.jpg>] [11 <./chap2//figa.jpg> <./chap2//
 figb.jpg>]
-<chap2//fig3.jpg, id=150, 431.211pt x 351.11176pt>
+<chap2//fig3.jpg, id=120, 431.211pt x 351.11176pt>
 File: chap2//fig3.jpg Graphic file (type jpg)
 <use chap2//fig3.jpg>
 Package pdftex.def Info: chap2//fig3.jpg  used on input line 175.
 (pdftex.def)             Requested size: 175.49881pt x 142.9013pt.
-<chap2//fig4.jpg, id=151, 189.1065pt x 173.448pt>
+<chap2//fig4.jpg, id=121, 189.1065pt x 173.448pt>
 File: chap2//fig4.jpg Graphic file (type jpg)
 <use chap2//fig4.jpg>
 Package pdftex.def Info: chap2//fig4.jpg  used on input line 180.
 (pdftex.def)             Requested size: 155.99762pt x 143.08841pt.
-<chap2//fig5.jpg, id=152, 198.7425pt x 196.3335pt>
+<chap2//fig5.jpg, id=122, 198.7425pt x 196.3335pt>
 File: chap2//fig5.jpg Graphic file (type jpg)
 <use chap2//fig5.jpg>
 Package pdftex.def Info: chap2//fig5.jpg  used on input line 191.
 (pdftex.def)             Requested size: 175.49881pt x 173.37616pt.
-<chap2//fig6.jpg, id=153, 179.4705pt x 193.9245pt>
+<chap2//fig6.jpg, id=123, 179.4705pt x 193.9245pt>
 File: chap2//fig6.jpg Graphic file (type jpg)
 <use chap2//fig6.jpg>
 Package pdftex.def Info: chap2//fig6.jpg  used on input line 196.
 (pdftex.def)             Requested size: 155.99762pt x 168.56203pt.
  [12 <./chap2//fig3.jpg> <./chap2//fig4.jpg>]
-<chap2//fig7.jpg, id=167, 695.59875pt x 570.63188pt>
+<chap2//fig7.jpg, id=129, 695.59875pt x 570.63188pt>
 File: chap2//fig7.jpg Graphic file (type jpg)
 <use chap2//fig7.jpg>
 Package pdftex.def Info: chap2//fig7.jpg  used on input line 207.
 (pdftex.def)             Requested size: 195.0pt x 159.96739pt.
-<chap2//fig8.png, id=168, 209.583pt x 131.5314pt>
+<chap2//fig8.png, id=130, 209.583pt x 131.5314pt>
 File: chap2//fig8.png Graphic file (type png)
 <use chap2//fig8.png>
 Package pdftex.def Info: chap2//fig8.png  used on input line 212.
@@ -430,12 +435,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 207--214
 
  []
 
-<chap2//fig9.jpg, id=170, 185.493pt x 187.902pt>
+<chap2//fig9.jpg, id=132, 185.493pt x 187.902pt>
 File: chap2//fig9.jpg Graphic file (type jpg)
 <use chap2//fig9.jpg>
 Package pdftex.def Info: chap2//fig9.jpg  used on input line 223.
 (pdftex.def)             Requested size: 195.0pt x 197.54088pt.
-<chap2//fig10.jpg, id=171, 138.5175pt x 125.87025pt>
+<chap2//fig10.jpg, id=133, 138.5175pt x 125.87025pt>
 File: chap2//fig10.jpg Graphic file (type jpg)
 <use chap2//fig10.jpg>
 Package pdftex.def Info: chap2//fig10.jpg  used on input line 228.
@@ -452,17 +457,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 223--230
 
 [13 <./chap2//fig5.jpg> <./chap2//fig6.jpg> <./chap2//fig7.jpg> <./chap2//fig8.
 png>]
-<chap2//figc.jpg, id=191, 519.1395pt x 390.258pt>
+<chap2//figc.jpg, id=139, 519.1395pt x 390.258pt>
 File: chap2//figc.jpg Graphic file (type jpg)
 <use chap2//figc.jpg>
 Package pdftex.def Info: chap2//figc.jpg  used on input line 237.
 (pdftex.def)             Requested size: 234.00238pt x 175.91222pt.
-<chap2//figd.jpg, id=192, 206.6265pt x 179.361pt>
+<chap2//figd.jpg, id=140, 206.6265pt x 179.361pt>
 File: chap2//figd.jpg Graphic file (type jpg)
 <use chap2//figd.jpg>
 Package pdftex.def Info: chap2//figd.jpg  used on input line 246.
 (pdftex.def)             Requested size: 195.0pt x 169.26712pt.
-<chap2//fige.jpg, id=193, 188.8875pt x 169.506pt>
+<chap2//fige.jpg, id=141, 188.8875pt x 169.506pt>
 File: chap2//fige.jpg Graphic file (type jpg)
 <use chap2//fige.jpg>
 Package pdftex.def Info: chap2//fige.jpg  used on input line 251.
@@ -478,12 +483,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 246--253
  []
 
 [14 <./chap2//fig9.jpg> <./chap2//fig10.jpg> <./chap2//figc.jpg>]
-<chap2//figf.jpg, id=199, 490.08093pt x 320.69812pt>
+<chap2//figf.jpg, id=145, 490.08093pt x 320.69812pt>
 File: chap2//figf.jpg Graphic file (type jpg)
 <use chap2//figf.jpg>
 Package pdftex.def Info: chap2//figf.jpg  used on input line 262.
 (pdftex.def)             Requested size: 195.0pt x 127.60167pt.
-<chap2//figg.jpg, id=200, 563.85657pt x 492.33937pt>
+<chap2//figg.jpg, id=146, 563.85657pt x 492.33937pt>
 File: chap2//figg.jpg Graphic file (type jpg)
 <use chap2//figg.jpg>
 Package pdftex.def Info: chap2//figg.jpg  used on input line 267.
@@ -499,12 +504,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 262--269
  []
 
 [15 <./chap2//figd.jpg> <./chap2//fige.jpg>]
-<chap2//figh.jpg, id=209, 235.5345pt x 188.2305pt>
+<chap2//figh.jpg, id=150, 235.5345pt x 188.2305pt>
 File: chap2//figh.jpg Graphic file (type jpg)
 <use chap2//figh.jpg>
 Package pdftex.def Info: chap2//figh.jpg  used on input line 279.
 (pdftex.def)             Requested size: 195.0pt x 155.83777pt.
-<chap2//figi.jpg, id=210, 181.332pt x 141.255pt>
+<chap2//figi.jpg, id=151, 181.332pt x 141.255pt>
 File: chap2//figi.jpg Graphic file (type jpg)
 <use chap2//figi.jpg>
 Package pdftex.def Info: chap2//figi.jpg  used on input line 284.
@@ -514,58 +519,58 @@ Overfull \hbox (41.77734pt too wide) in paragraph at lines 279--285
 [][]  [] 
  []
 
-<chap2//figj.jpg, id=211, 232.2495pt x 141.5835pt>
+<chap2//figj.jpg, id=152, 232.2495pt x 141.5835pt>
 File: chap2//figj.jpg Graphic file (type jpg)
 <use chap2//figj.jpg>
 Package pdftex.def Info: chap2//figj.jpg  used on input line 290.
 (pdftex.def)             Requested size: 350.99762pt x 214.00148pt.
 [16 <./chap2//figf.jpg> <./chap2//figg.jpg> <./chap2//figh.jpg> <./chap2//figi.
 jpg>]
-<chap2//figk.jpg, id=215, 283.824pt x 219.1095pt>
+<chap2//figk.jpg, id=156, 283.824pt x 219.1095pt>
 File: chap2//figk.jpg Graphic file (type jpg)
 <use chap2//figk.jpg>
 Package pdftex.def Info: chap2//figk.jpg  used on input line 297.
 (pdftex.def)             Requested size: 234.00238pt x 180.65388pt.
  [17 <./chap2//figj.jpg> <./chap2//figk.jpg>]
-<chap2//fig21.jpg, id=219, 194.1435pt x 156.6945pt>
+<chap2//fig21.jpg, id=160, 194.1435pt x 156.6945pt>
 File: chap2//fig21.jpg Graphic file (type jpg)
 <use chap2//fig21.jpg>
 Package pdftex.def Info: chap2//fig21.jpg  used on input line 309.
 (pdftex.def)             Requested size: 234.00238pt x 188.86688pt.
-<chap2//fig22.jpg, id=220, 179.6895pt x 152.7525pt>
+<chap2//fig22.jpg, id=161, 179.6895pt x 152.7525pt>
 File: chap2//fig22.jpg Graphic file (type jpg)
 <use chap2//fig22.jpg>
 Package pdftex.def Info: chap2//fig22.jpg  used on input line 314.
 (pdftex.def)             Requested size: 234.00238pt x 198.92317pt.
  [18 <./chap2//fig21.jpg> <./chap2//fig22.jpg>]
-<chap2//fig23.jpg, id=224, 317.988pt x 187.5735pt>
+<chap2//fig23.jpg, id=165, 317.988pt x 187.5735pt>
 File: chap2//fig23.jpg Graphic file (type jpg)
 <use chap2//fig23.jpg>
 Package pdftex.def Info: chap2//fig23.jpg  used on input line 323.
 (pdftex.def)             Requested size: 253.49762pt x 149.53235pt.
-<chap2//fig24.jpg, id=225, 216.81pt x 185.9748pt>
+<chap2//fig24.jpg, id=166, 216.81pt x 185.9748pt>
 File: chap2//fig24.jpg Graphic file (type jpg)
 <use chap2//fig24.jpg>
 Package pdftex.def Info: chap2//fig24.jpg  used on input line 331.
 (pdftex.def)             Requested size: 214.50119pt x 184.00493pt.
  [19 <./chap2//fig23.jpg> <./chap2//fig24.jpg>]
 Overfull \hbox (3.84648pt too wide) in paragraph at lines 340--340
-[]\C70/song/m/n/12/99 – \C70/song/m/n/12/51 H \C70/song/bx/n/12/ff ^^L \C70/son
-g/m/n/12/8b ¾ ¡ \C70/song/m/n/12/82 ‚ \C70/song/m/n/12/66 ò \C70/song/m/n/12/7e
- ¿ \C70/song/bx/n/12/ff ^^H \C70/song/bx/n/12/76 ø \C70/song/bx/n/12/4f < \C70/
-song/m/n/12/4e Ž \C70/song/bx/n/12/9f ^^? \C70/song/bx/n/12/8f n \C70/song/m/n/
-12/4e - \C70/song/m/n/12/82 ‚ \C70/song/bx/n/12/57 ^^F \C70/song/bx/n/12/76 „ \
-C70/song/bx/n/12/69 ‚ \C70/song/bx/n/12/5f õ \C70/song/bx/n/12/ff 	 ^^L \C70/so
-ng/bx/n/12/95 ^^? \C70/song/bx/n/12/53 J \C70/song/bx/n/12/8f t\OT1/cmr/m/n/12 
-a=20mm\C70/song/bx/n/12/ff ^^H \C70/song/bx/n/12/75 1
+[]\C70/gbsn/m/n/12/99 – \C70/gbsn/m/n/12/51 H \C70/gbsn/bx/n/12/ff ^^L \C70/gbs
+n/m/n/12/8b ¾ ¡ \C70/gbsn/m/n/12/82 ‚ \C70/gbsn/m/n/12/66 ò \C70/gbsn/m/n/12/7e
+ ¿ \C70/gbsn/bx/n/12/ff ^^H \C70/gbsn/bx/n/12/76 ø \C70/gbsn/bx/n/12/4f < \C70/
+gbsn/m/n/12/4e Ž \C70/gbsn/bx/n/12/9f ^^? \C70/gbsn/bx/n/12/8f n \C70/gbsn/m/n/
+12/4e - \C70/gbsn/m/n/12/82 ‚ \C70/gbsn/bx/n/12/57 ^^F \C70/gbsn/bx/n/12/76 „ \
+C70/gbsn/bx/n/12/69 ‚ \C70/gbsn/bx/n/12/5f õ \C70/gbsn/bx/n/12/ff 	 ^^L \C70/gb
+sn/bx/n/12/95 ^^? \C70/gbsn/bx/n/12/53 J \C70/gbsn/bx/n/12/8f t\OT1/cmr/m/n/12 
+a=20mm\C70/gbsn/bx/n/12/ff ^^H \C70/gbsn/bx/n/12/75 1
  []
 
-<chap3//fig1.jpg, id=231, 226.665pt x 113.661pt>
+<chap3//fig1.jpg, id=172, 226.665pt x 113.661pt>
 File: chap3//fig1.jpg Graphic file (type jpg)
 <use chap3//fig1.jpg>
 Package pdftex.def Info: chap3//fig1.jpg  used on input line 348.
 (pdftex.def)             Requested size: 195.0pt x 97.78468pt.
-<chap3//fig2.jpg, id=232, 164.48953pt x 147.55125pt>
+<chap3//fig2.jpg, id=173, 164.48953pt x 147.55125pt>
 File: chap3//fig2.jpg Graphic file (type jpg)
 <use chap3//fig2.jpg>
 Package pdftex.def Info: chap3//fig2.jpg  used on input line 353.
@@ -575,12 +580,12 @@ Overfull \hbox (22.27615pt too wide) in paragraph at lines 348--354
 [][]  [] 
  []
 
-<chap3//fig3.jpg, id=233, 203.3415pt x 139.6125pt>
+<chap3//fig3.jpg, id=174, 203.3415pt x 139.6125pt>
 File: chap3//fig3.jpg Graphic file (type jpg)
 <use chap3//fig3.jpg>
 Package pdftex.def Info: chap3//fig3.jpg  used on input line 364.
 (pdftex.def)             Requested size: 195.0pt x 133.89224pt.
-<chap3//fig4.jpg, id=234, 673.76718pt x 453.19313pt>
+<chap3//fig4.jpg, id=175, 673.76718pt x 453.19313pt>
 File: chap3//fig4.jpg Graphic file (type jpg)
 <use chap3//fig4.jpg>
 Package pdftex.def Info: chap3//fig4.jpg  used on input line 369.
@@ -592,62 +597,62 @@ Overfull \hbox (41.77734pt too wide) in paragraph at lines 364--370
 
 [20 <./chap3//fig1.jpg> <./chap3//fig2.jpg>] [21 <./chap3//fig3.jpg> <./chap3//
 fig4.jpg>]
-<chap3//fig6.jpg, id=259, 448.67625pt x 257.763pt>
+<chap3//fig6.jpg, id=188, 448.67625pt x 257.763pt>
 File: chap3//fig6.jpg Graphic file (type jpg)
 <use chap3//fig6.jpg>
 Package pdftex.def Info: chap3//fig6.jpg  used on input line 400.
 (pdftex.def)             Requested size: 312.00119pt x 179.249pt.
-<chap3//fig7.jpg, id=260, 428.19975pt x 194.52675pt>
+<chap3//fig7.jpg, id=189, 428.19975pt x 194.52675pt>
 File: chap3//fig7.jpg Graphic file (type jpg)
 <use chap3//fig7.jpg>
 Package pdftex.def Info: chap3//fig7.jpg  used on input line 405.
 (pdftex.def)             Requested size: 312.00119pt x 141.74213pt.
-<chap3//fig9.jpg, id=261, 417.81094pt x 274.02374pt>
+<chap3//fig9.jpg, id=190, 417.81094pt x 274.02374pt>
 File: chap3//fig9.jpg Graphic file (type jpg)
 <use chap3//fig9.jpg>
 Package pdftex.def Info: chap3//fig9.jpg  used on input line 413.
 (pdftex.def)             Requested size: 312.00119pt x 204.63924pt.
 
 Overfull \hbox (14.59615pt too wide) in paragraph at lines 410--415
-[]\C70/song/bx/n/12/68 9 \C70/song/m/n/12/63 n \C70/song/bx/n/12/75 5 \C70/song
-/bx/n/12/67 : \C70/song/bx/n/12/76 „\OT1/cmr/m/n/12 P-T\C70/song/m/n/12/66 ò \C
-70/song/m/n/12/7e ¿ \C70/song/bx/n/12/ff ^^L \C70/song/bx/n/12/53 ï \C70/song/m
-/n/12/4e å \C70/song/bx/n/12/5f — \C70/song/m/n/12/77 å \C70/song/bx/n/12/ff ^^
-L \C70/song/bx/n/12/57 ( \C70/song/m/n/12/62 m \C70/song/m/n/12/77 é \C70/song/
-m/n/12/4e :\OT1/cmr/m/n/12 1.5N.m\C70/song/bx/n/12/65 ö \C70/song/bx/n/12/ff ^^
-L \C70/song/m/n/12/51 v \C70/song/m/n/12/52 Ÿ \C70/song/m/n/12/73 ‡ \C70/song/m
-/n/12/7e ¦ \C70/song/m/n/12/4e :\OT1/cmr/m/n/12 30W\C70/song/m/n/12/30 ^^B 
+[]\C70/gbsn/bx/n/12/68 9 \C70/gbsn/m/n/12/63 n \C70/gbsn/bx/n/12/75 5 \C70/gbsn
+/bx/n/12/67 : \C70/gbsn/bx/n/12/76 „\OT1/cmr/m/n/12 P-T\C70/gbsn/m/n/12/66 ò \C
+70/gbsn/m/n/12/7e ¿ \C70/gbsn/bx/n/12/ff ^^L \C70/gbsn/bx/n/12/53 ï \C70/gbsn/m
+/n/12/4e å \C70/gbsn/bx/n/12/5f — \C70/gbsn/m/n/12/77 å \C70/gbsn/bx/n/12/ff ^^
+L \C70/gbsn/bx/n/12/57 ( \C70/gbsn/m/n/12/62 m \C70/gbsn/m/n/12/77 é \C70/gbsn/
+m/n/12/4e :\OT1/cmr/m/n/12 1.5N.m\C70/gbsn/bx/n/12/65 ö \C70/gbsn/bx/n/12/ff ^^
+L \C70/gbsn/m/n/12/51 v \C70/gbsn/m/n/12/52 Ÿ \C70/gbsn/m/n/12/73 ‡ \C70/gbsn/m
+/n/12/7e ¦ \C70/gbsn/m/n/12/4e :\OT1/cmr/m/n/12 30W\C70/gbsn/m/n/12/30 ^^B 
  []
 
 [22 <./chap3//fig6.jpg> <./chap3//fig7.jpg>]
-<chap4//Fig1.jpg, id=265, 739.563pt x 339.669pt>
+<chap4//Fig1.jpg, id=194, 739.563pt x 339.669pt>
 File: chap4//Fig1.jpg Graphic file (type jpg)
 <use chap4//Fig1.jpg>
 Package pdftex.def Info: chap4//Fig1.jpg  used on input line 423.
 (pdftex.def)             Requested size: 350.99762pt x 161.20969pt.
-<chap4//Fig2.jpg, id=266, 697.4055pt x 305.943pt>
+<chap4//Fig2.jpg, id=195, 697.4055pt x 305.943pt>
 File: chap4//Fig2.jpg Graphic file (type jpg)
 <use chap4//Fig2.jpg>
 Package pdftex.def Info: chap4//Fig2.jpg  used on input line 428.
 (pdftex.def)             Requested size: 350.99762pt x 153.98413pt.
  [23 <./chap3//fig9.jpg>]
-<chap4//Fig3.jpg, id=271, 628.749pt x 296.307pt>
+<chap4//Fig3.jpg, id=199, 628.749pt x 296.307pt>
 File: chap4//Fig3.jpg Graphic file (type jpg)
 <use chap4//Fig3.jpg>
 Package pdftex.def Info: chap4//Fig3.jpg  used on input line 433.
 (pdftex.def)             Requested size: 350.99762pt x 165.41988pt.
-<chap4//Fig4.jpg, id=272, 411.939pt x 207.77625pt>
+<chap4//Fig4.jpg, id=200, 411.939pt x 207.77625pt>
 File: chap4//Fig4.jpg Graphic file (type jpg)
 <use chap4//Fig4.jpg>
 Package pdftex.def Info: chap4//Fig4.jpg  used on input line 438.
 (pdftex.def)             Requested size: 350.99762pt x 177.03546pt.
  [24 <./chap4//Fig1.jpg> <./chap4//Fig2.jpg>]
-<chap4//Fig5.jpg, id=284, 211.91672pt x 201.75375pt>
+<chap4//Fig5.jpg, id=204, 211.91672pt x 201.75375pt>
 File: chap4//Fig5.jpg Graphic file (type jpg)
 <use chap4//Fig5.jpg>
 Package pdftex.def Info: chap4//Fig5.jpg  used on input line 451.
 (pdftex.def)             Requested size: 195.0pt x 185.65572pt.
-<chap4//Fig6.jpg, id=285, 162.9839pt x 171.26485pt>
+<chap4//Fig6.jpg, id=205, 162.9839pt x 171.26485pt>
 File: chap4//Fig6.jpg Graphic file (type jpg)
 <use chap4//Fig6.jpg>
 Package pdftex.def Info: chap4//Fig6.jpg  used on input line 456.
@@ -658,12 +663,12 @@ Overfull \hbox (2.77496pt too wide) in paragraph at lines 451--457
  []
 
 [25 <./chap4//Fig3.jpg> <./chap4//Fig4.jpg>]
-<chap4//Fig7.jpg, id=291, 767.86874pt x 706.64pt>
+<chap4//Fig7.jpg, id=210, 767.86874pt x 706.64pt>
 File: chap4//Fig7.jpg Graphic file (type jpg)
 <use chap4//Fig7.jpg>
 Package pdftex.def Info: chap4//Fig7.jpg  used on input line 469.
 (pdftex.def)             Requested size: 195.0pt x 179.45221pt.
-<chap4//Fig8.jpg, id=292, 190.83797pt x 182.18062pt>
+<chap4//Fig8.jpg, id=211, 190.83797pt x 182.18062pt>
 File: chap4//Fig8.jpg Graphic file (type jpg)
 <use chap4//Fig8.jpg>
 Package pdftex.def Info: chap4//Fig8.jpg  used on input line 474.
@@ -675,12 +680,12 @@ Overfull \hbox (30.07782pt too wide) in paragraph at lines 469--475
 
 [26 <./chap4//Fig5.jpg> <./chap4//Fig6.jpg> <./chap4//Fig7.jpg> <./chap4//Fig8.
 jpg>]
-<chap4//Fig9.jpg, id=299, 215.68079pt x 191.9672pt>
+<chap4//Fig9.jpg, id=215, 215.68079pt x 191.9672pt>
 File: chap4//Fig9.jpg Graphic file (type jpg)
 <use chap4//Fig9.jpg>
 Package pdftex.def Info: chap4//Fig9.jpg  used on input line 486.
 (pdftex.def)             Requested size: 195.0pt x 173.56561pt.
-<chap4//Fig10.jpg, id=300, 231.264pt x 229.45724pt>
+<chap4//Fig10.jpg, id=216, 231.264pt x 229.45724pt>
 File: chap4//Fig10.jpg Graphic file (type jpg)
 <use chap4//Fig10.jpg>
 Package pdftex.def Info: chap4//Fig10.jpg  used on input line 491.
@@ -690,12 +695,12 @@ Overfull \hbox (41.77734pt too wide) in paragraph at lines 486--492
 [][]  [] 
  []
 
-<chap4//Fig11.jpg, id=301, 199.24437pt x 175.15437pt>
+<chap4//Fig11.jpg, id=217, 199.24437pt x 175.15437pt>
 File: chap4//Fig11.jpg Graphic file (type jpg)
 <use chap4//Fig11.jpg>
 Package pdftex.def Info: chap4//Fig11.jpg  used on input line 503.
 (pdftex.def)             Requested size: 155.99762pt x 137.14102pt.
-<chap4//Fig12.jpg, id=302, 622.57594pt x 442.65375pt>
+<chap4//Fig12.jpg, id=218, 622.57594pt x 442.65375pt>
 File: chap4//Fig12.jpg Graphic file (type jpg)
 <use chap4//Fig12.jpg>
 Package pdftex.def Info: chap4//Fig12.jpg  used on input line 508.
@@ -706,69 +711,69 @@ Overfull \hbox (22.27615pt too wide) in paragraph at lines 503--509
  []
 
 [27 <./chap4//Fig9.jpg> <./chap4//Fig10.jpg>]
-<chap5//fig1.jpg, id=306, 504.38437pt x 529.22719pt>
+<chap5//fig1.jpg, id=222, 504.38437pt x 529.22719pt>
 File: chap5//fig1.jpg Graphic file (type jpg)
 <use chap5//fig1.jpg>
 Package pdftex.def Info: chap5//fig1.jpg  used on input line 517.
 (pdftex.def)             Requested size: 312.00119pt x 327.36646pt.
  [28 <./chap4//Fig11.jpg> <./chap4//Fig12.jpg>] [29 <./chap5//fig1.jpg>]
-<chap5//fig2.jpg, id=316, 480.67078pt x 134.75343pt>
+<chap5//fig2.jpg, id=229, 480.67078pt x 134.75343pt>
 File: chap5//fig2.jpg Graphic file (type jpg)
 <use chap5//fig2.jpg>
 Package pdftex.def Info: chap5//fig2.jpg  used on input line 539.
 (pdftex.def)             Requested size: 350.99762pt x 98.40207pt.
-<chap5//fig3.jpg, id=317, 404.63672pt x 137.7647pt>
+<chap5//fig3.jpg, id=230, 404.63672pt x 137.7647pt>
 File: chap5//fig3.jpg Graphic file (type jpg)
 <use chap5//fig3.jpg>
 Package pdftex.def Info: chap5//fig3.jpg  used on input line 545.
 (pdftex.def)             Requested size: 300.30167pt x 102.24486pt.
-<chap5//fig4.jpg, id=318, 497.98547pt x 163.3603pt>
+<chap5//fig4.jpg, id=231, 497.98547pt x 163.3603pt>
 File: chap5//fig4.jpg Graphic file (type jpg)
 <use chap5//fig4.jpg>
 Package pdftex.def Info: chap5//fig4.jpg  used on input line 553.
 (pdftex.def)             Requested size: 370.49881pt x 121.54279pt.
  [30 <./chap5//fig2.jpg> <./chap5//fig3.jpg>]
-<chap5//fig5.jpg, id=322, 411.78844pt x 273.64734pt>
+<chap5//fig5.jpg, id=235, 411.78844pt x 273.64734pt>
 File: chap5//fig5.jpg Graphic file (type jpg)
 <use chap5//fig5.jpg>
 Package pdftex.def Info: chap5//fig5.jpg  used on input line 560.
 (pdftex.def)             Requested size: 312.00119pt x 207.33528pt.
  [31 <./chap5//fig4.jpg> <./chap5//fig5.jpg>]
-<chap5//fig6.jpg, id=328, 469.3786pt x 304.88907pt>
+<chap5//fig6.jpg, id=240, 469.3786pt x 304.88907pt>
 File: chap5//fig6.jpg Graphic file (type jpg)
 <use chap5//fig6.jpg>
 Package pdftex.def Info: chap5//fig6.jpg  used on input line 570.
 (pdftex.def)             Requested size: 312.00119pt x 202.6603pt.
  [32 <./chap5//fig6.jpg>]
 [33]
-<chap5//fig7.jpg, id=340, 439.2661pt x 221.70328pt>
+<chap5//fig7.jpg, id=249, 439.2661pt x 221.70328pt>
 File: chap5//fig7.jpg Graphic file (type jpg)
 <use chap5//fig7.jpg>
 Package pdftex.def Info: chap5//fig7.jpg  used on input line 594.
 (pdftex.def)             Requested size: 350.99762pt x 177.1565pt.
-<chap5//fig8.jpg, id=341, 1496.59125pt x 509.65407pt>
+<chap5//fig8.jpg, id=250, 1496.59125pt x 509.65407pt>
 File: chap5//fig8.jpg Graphic file (type jpg)
 <use chap5//fig8.jpg>
 Package pdftex.def Info: chap5//fig8.jpg  used on input line 599.
 (pdftex.def)             Requested size: 350.99762pt x 119.52763pt.
-<chap6//fig1.png, id=342, 584.78474pt x 423.38174pt>
+<chap6//fig1.png, id=251, 584.78474pt x 423.38174pt>
 File: chap6//fig1.png Graphic file (type png)
 <use chap6//fig1.png>
 Package pdftex.def Info: chap6//fig1.png  used on input line 607.
 (pdftex.def)             Requested size: 315.89905pt x 228.70671pt.
-<chap6//fig2.png, id=343, 648.021pt x 352.31625pt>
+<chap6//fig2.png, id=252, 648.021pt x 352.31625pt>
 File: chap6//fig2.png Graphic file (type png)
 <use chap6//fig2.png>
 Package pdftex.def Info: chap6//fig2.png  used on input line 612.
 (pdftex.def)             Requested size: 331.50238pt x 180.23262pt.
  [34 <./chap5//fig7.jpg> <./chap5//fig8.jpg>]
-<chap6//fig3.png, id=347, 566.71725pt x 596.82974pt>
+<chap6//fig3.png, id=256, 566.71725pt x 596.82974pt>
 File: chap6//fig3.png Graphic file (type png)
 <use chap6//fig3.png>
 Package pdftex.def Info: chap6//fig3.png  used on input line 618.
 (pdftex.def)             Requested size: 390.0pt x 410.73834pt.
  [35 <./chap6//fig1.png> <./chap6//fig2.png>]
-<chap7//fig1.jpg, id=358, 449.2785pt x 257.763pt>
+<chap7//fig1.jpg, id=262, 449.2785pt x 257.763pt>
 File: chap7//fig1.jpg Graphic file (type jpg)
 <use chap7//fig1.jpg>
 Package pdftex.def Info: chap7//fig1.jpg  used on input line 626.
@@ -779,32 +784,32 @@ Overfull \hbox (77.99881pt too wide) in paragraph at lines 626--627
  []
 
 [36 <./chap6//fig3.png>] [37 <./chap7//fig1.jpg>]
-<photo//yw.jpg, id=373, 1084.05pt x 1395.2125pt>
+<photo//yw.jpg, id=273, 1084.05pt x 1395.2125pt>
 File: photo//yw.jpg Graphic file (type jpg)
 <use photo//yw.jpg>
 Package pdftex.def Info: photo//yw.jpg  used on input line 640.
 (pdftex.def)             Requested size: 117.00119pt x 150.5785pt.
  [38 <./photo//yw.jpg>]
-<photo//hw.jpg, id=377, 675.52374pt x 1036.87375pt>
+<photo//hw.jpg, id=277, 675.52374pt x 1036.87375pt>
 File: photo//hw.jpg Graphic file (type jpg)
 <use photo//hw.jpg>
 Package pdftex.def Info: photo//hw.jpg  used on input line 652.
 (pdftex.def)             Requested size: 117.00119pt x 179.5887pt.
 
 [39 <./photo//hw.jpg>]
-<photo//fyy.jpg, id=381, 606.265pt x 863.225pt>
+<photo//fyy.jpg, id=281, 606.265pt x 863.225pt>
 File: photo//fyy.jpg Graphic file (type jpg)
 <use photo//fyy.jpg>
 Package pdftex.def Info: photo//fyy.jpg  used on input line 663.
 (pdftex.def)             Requested size: 117.00119pt x 166.58295pt.
  [40 <./photo//fyy.jpg>]
-<photo//zyn.jpg, id=386, 1084.05pt x 1927.2pt>
+<photo//zyn.jpg, id=286, 1084.05pt x 1927.2pt>
 File: photo//zyn.jpg Graphic file (type jpg)
 <use photo//zyn.jpg>
 Package pdftex.def Info: photo//zyn.jpg  used on input line 674.
 (pdftex.def)             Requested size: 117.00119pt x 207.99335pt.
  [41 <./photo//zyn.jpg>]
-<photo//lx.jpg, id=390, 99.58464pt x 142.26378pt>
+<photo//lx.jpg, id=290, 99.58464pt x 142.26378pt>
 File: photo//lx.jpg Graphic file (type jpg)
 <use photo//lx.jpg>
 Package pdftex.def Info: photo//lx.jpg  used on input line 685.
@@ -815,13 +820,85 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 5731 strings out of 492982
- 90651 string characters out of 6138551
+ 5739 strings out of 492982
+ 90793 string characters out of 6138551
  135931 words of memory out of 5000000
- 9110 multiletter control sequences out of 15000+600000
- 58114 words of font info for 214 fonts, out of 8000000 for 9000
+ 9116 multiletter control sequences out of 15000+600000
+ 59353 words of font info for 214 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,12n,43p,1174b,519s stack positions out of 5000i,500n,10000p,200000b,80000s
+<d:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><d:/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><d:/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmr10.pfb><d:/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr12.pfb><d:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+r8.pfb><d:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/tex
+live/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu00.pfb><d:/texlive/texmf-dist/fon
+ts/type1/arphic/gbsnu/gbsnu03.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbs
+nu/gbsnu20.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu30.pfb><d:/
+texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu4e.pfb><d:/texlive/texmf-dist/
+fonts/type1/arphic/gbsnu/gbsnu4f.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/
+gbsnu/gbsnu50.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu51.pfb><
+d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu52.pfb><d:/texlive/texmf-di
+st/fonts/type1/arphic/gbsnu/gbsnu53.pfb><d:/texlive/texmf-dist/fonts/type1/arph
+ic/gbsnu/gbsnu54.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu55.pf
+b><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu56.pfb><d:/texlive/texmf
+-dist/fonts/type1/arphic/gbsnu/gbsnu57.pfb><d:/texlive/texmf-dist/fonts/type1/a
+rphic/gbsnu/gbsnu58.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu59
+.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5a.pfb><d:/texlive/te
+xmf-dist/fonts/type1/arphic/gbsnu/gbsnu5b.pfb><d:/texlive/texmf-dist/fonts/type
+1/arphic/gbsnu/gbsnu5c.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsn
+u5d.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5e.pfb><d:/texlive
+/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5f.pfb><d:/texlive/texmf-dist/fonts/t
+ype1/arphic/gbsnu/gbsnu60.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/g
+bsnu61.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu62.pfb><d:/texl
+ive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu63.pfb><d:/texlive/texmf-dist/font
+s/type1/arphic/gbsnu/gbsnu64.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsn
+u/gbsnu65.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu66.pfb><d:/t
+exlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu67.pfb><d:/texlive/texmf-dist/f
+onts/type1/arphic/gbsnu/gbsnu68.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/g
+bsnu/gbsnu69.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6a.pfb><d
+:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6b.pfb><d:/texlive/texmf-dis
+t/fonts/type1/arphic/gbsnu/gbsnu6c.pfb><d:/texlive/texmf-dist/fonts/type1/arphi
+c/gbsnu/gbsnu6d.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6e.pfb
+><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6f.pfb><d:/texlive/texmf-
+dist/fonts/type1/arphic/gbsnu/gbsnu70.pfb><d:/texlive/texmf-dist/fonts/type1/ar
+phic/gbsnu/gbsnu71.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu72.
+pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu73.pfb><d:/texlive/tex
+mf-dist/fonts/type1/arphic/gbsnu/gbsnu74.pfb><d:/texlive/texmf-dist/fonts/type1
+/arphic/gbsnu/gbsnu75.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu
+76.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu77.pfb><d:/texlive/
+texmf-dist/fonts/type1/arphic/gbsnu/gbsnu78.pfb><d:/texlive/texmf-dist/fonts/ty
+pe1/arphic/gbsnu/gbsnu79.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gb
+snu7a.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7b.pfb><d:/texli
+ve/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7c.pfb><d:/texlive/texmf-dist/fonts
+/type1/arphic/gbsnu/gbsnu7d.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu
+/gbsnu7e.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7f.pfb><d:/te
+xlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu80.pfb><d:/texlive/texmf-dist/fo
+nts/type1/arphic/gbsnu/gbsnu81.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gb
+snu/gbsnu82.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu83.pfb><d:
+/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu84.pfb><d:/texlive/texmf-dist
+/fonts/type1/arphic/gbsnu/gbsnu85.pfb><d:/texlive/texmf-dist/fonts/type1/arphic
+/gbsnu/gbsnu86.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu87.pfb>
+<d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu88.pfb><d:/texlive/texmf-d
+ist/fonts/type1/arphic/gbsnu/gbsnu89.pfb><d:/texlive/texmf-dist/fonts/type1/arp
+hic/gbsnu/gbsnu8a.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8b.p
+fb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8c.pfb><d:/texlive/texm
+f-dist/fonts/type1/arphic/gbsnu/gbsnu8d.pfb><d:/texlive/texmf-dist/fonts/type1/
+arphic/gbsnu/gbsnu8e.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8
+f.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu90.pfb><d:/texlive/t
+exmf-dist/fonts/type1/arphic/gbsnu/gbsnu91.pfb><d:/texlive/texmf-dist/fonts/typ
+e1/arphic/gbsnu/gbsnu94.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbs
+nu95.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu96.pfb><d:/texliv
+e/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu97.pfb><d:/texlive/texmf-dist/fonts/
+type1/arphic/gbsnu/gbsnu98.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/
+gbsnu99.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu9a.pfb><d:/tex
+live/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu9c.pfb><d:/texlive/texmf-dist/fon
+ts/type1/arphic/gbsnu/gbsnu9e.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbs
+nu/gbsnu9f.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnuff.pfb>
+Output written on Éè¼ÆÖÆÔì2.pdf (46 pages, 5397387 bytes).
+PDF statistics:
+ 582 PDF objects out of 1000 (max. 8388607)
+ 372 compressed objects within 4 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 326 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-!pdfTeX error: pdflatex.exe (file cyberb8c): Font cyberb8c at 1037 not found
- ==> Fatal error occurred, no output PDF file produced!
