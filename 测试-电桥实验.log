@@ -1,0 +1,535 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2018.3.26)  13 JAN 2019 16:48
+entering extended mode
+**测试-电桥实验.tex
+(D:\必修课\测试\电桥实验\电桥Latex\测试-电桥实验.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for loaded.
+(D:\texlive\CTex\MiKTeX\tex\latex\base\article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(D:\texlive\CTex\MiKTeX\tex\latex\base\size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(D:\texlive\CTex\MiKTeX\tex\latex\cjk\CJK.sty
+Package: CJK 2008/12/29 4.8.2
+
+(D:\texlive\CTex\MiKTeX\tex\latex\cjk\mule\MULEenc.sty
+Package: MULEenc 2008/12/29 4.8.2
+)
+(D:\texlive\CTex\MiKTeX\tex\latex\cjk\CJK.enc
+File: CJK.enc 2008/12/29 4.8.2
+)
+LaTeX Info: Redefining \selectfont on input line 756.
+\CJK@indent=\box26
+)
+(D:\texlive\CTex\MiKTeX\tex\latex\multirow\multirow.sty
+\bigstrutjot=\dimen103
+)
+(D:\texlive\CTex\MiKTeX\tex\latex\tools\indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(D:\texlive\CTex\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
+)
+(D:\texlive\CTex\MiKTeX\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\texlive\CTex\MiKTeX\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(D:\texlive\CTex\MiKTeX\tex\latex\graphics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\texlive\CTex\MiKTeX\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(D:\texlive\CTex\MiKTeX\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(D:\texlive\CTex\MiKTeX\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(D:\texlive\CTex\MiKTeX\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(D:\texlive\CTex\MiKTeX\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(D:\texlive\CTex\MiKTeX\tex\latex\subfigure\subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip52
+\subfigcapskip=\skip53
+\subfigcaptopadj=\dimen106
+\subfigbottomskip=\skip54
+\subfigcapmargin=\dimen107
+\subfiglabelskip=\skip55
+\c@subfigure=\count88
+\c@lofdepth=\count89
+\c@subtable=\count90
+\c@lotdepth=\count91
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(D:\texlive\CTex\MiKTeX\tex\latex\subfigure\subfigure.cfg)
+\subfig@top=\skip56
+\subfig@bottom=\skip57
+)
+(D:\texlive\CTex\MiKTeX\tex\latex\float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count92
+\float@exts=\toks15
+\float@box=\box27
+\@float@everytoks=\toks16
+\@floatcapt=\box28
+)
+(D:\texlive\CTex\MiKTeX\tex\latex\subfig\subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(D:\texlive\CTex\MiKTeX\tex\latex\caption\caption.sty
+Package: caption 2011/11/10 v3.2e Customizing captions (AR)
+
+(D:\texlive\CTex\MiKTeX\tex\latex\caption\caption3.sty
+Package: caption3 2011/11/01 v1.4a caption3 kernel (AR)
+\captionmargin=\dimen108
+\captionmargin@=\dimen109
+\captionwidth=\dimen110
+\caption@indent=\dimen111
+\caption@parindent=\dimen112
+\caption@hangindent=\dimen113
+)
+\c@ContinuedFloat=\count93
+Package caption Info: float package is loaded.
+Package caption Info: subfigure package is loaded.
+)
+\c@KVtest=\count94
+\sf@farskip=\skip58
+\sf@captopadj=\dimen114
+\sf@capskip=\skip59
+\sf@nearskip=\skip60
+\sf@top=\skip61
+\sf@bottom=\skip62
+)
+(D:\必修课\测试\电桥实验\电桥Latex\测试-电桥实验.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+
+(D:\texlive\CTex\MiKTeX\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count95
+\scratchdimen=\dimen115
+\scratchbox=\box29
+\nofMPsegments=\count96
+\nofMParguments=\count97
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count98
+\MPscratchDim=\dimen116
+\MPnumerator=\count99
+\makeMPintoPDFobject=\count100
+\everyMPtoPDFconversion=\toks18
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+ (D:\texlive\CTex\MiKTeX\tex\latex\cjk\UTF8\UTF8.bdg
+File: UTF8.bdg 2008/12/29 4.8.2
+)
+(D:\texlive\CTex\MiKTeX\tex\latex\cjk\UTF8\UTF8.enc
+File: UTF8.enc 2008/12/29 4.8.2
+)
+(D:\texlive\CTex\MiKTeX\tex\latex\cjk\UTF8\UTF8.chr
+File: UTF8.chr 2008/12/29 4.8.2
+)
+LaTeX Font Info:    Try loading font information for C70+song on input line 19.
+
+
+(D:\texlive\CTex\CTeX\tex\latex\CJK\UTF8\c70song.fd
+File: c70song.fd 2009/09/23 4.8.2
+)
+(D:\必修课\测试\电桥实验\电桥Latex\测试-电桥实验.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 4.
+)
+\tf@toc=\write3
+ [1
+
+{D:/texlive/CTex/UserData/pdftex/config/pdftex.map{Unicode.sfd}{UGBK.sfd}}]
+Missing character: There is no � in font cmr12!
+Missing character: There is no � in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--100
+
+ []
+
+[2] <tiepian.png, id=61, 431.73798pt x 210.7875pt>
+File: tiepian.png Graphic file (type png)
+ <use tiepian.png>
+Package pdftex.def Info: tiepian.png used on input line 104.
+(pdftex.def)             Requested size: 312.00119pt x 152.33296pt.
+
+Overfull \hbox (1.89676pt too wide) in paragraph at lines 101--106
+[]\C70/song/m/n/12/57 ( \C70/song/m/n/12/7b I \C70/song/m/n/12/5f : \C70/song/m
+/n/12/5e � \C70/song/m/n/12/68 � \C70/song/bx/n/12/4e 
+ \C70/song/m/n/12/7c � \C70/song/m/n/12/8d 4\OT1/cmr/m/n/12 7\C70/song/m/n/12/7
+2 G \C70/song/m/n/12/75 5 \C70/song/m/n/12/96 ; \C70/song/m/n/12/5e � \C70/song
+/m/n/12/53 � \C70/song/m/n/12/72 G \C70/song/m/n/12/ff  \C70/song/m/n/12/59 � 
+\C70/song/bx/n/12/4e  \C70/song/m/n/12/56 � \C70/song/m/n/12/ff 	  \C70/song/
+m/n/12/6c � \C70/song/m/n/12/7e � \C70/song/m/n/12/54  \C70/song/m/n/12/7c � \
+C70/song/m/n/12/8d 4 \C70/song/m/n/12/75 5 \C70/song/m/n/12/96 ; \C70/song/m/n/
+12/72 G\OT1/cmr/m/n/12 R1\C70/song/m/n/12/30 
+ []
+
+<circuit.jpg, id=63, 1124.2pt x 1059.96pt>
+File: circuit.jpg Graphic file (type jpg)
+ <use circuit.jpg>
+Package pdftex.def Info: circuit.jpg used on input line 113.
+(pdftex.def)             Requested size: 155.99762pt x 147.08331pt.
+ [3 <D:/必修课/测试/电桥实验/电桥Latex/tiepian.png>] [4 <D:/必修�
+�/测试/电桥实验/电桥Latex/circuit.jpg>] <R17_.JPG, id=85, 1652.1725pt x
+ 653.44125pt>
+File: R17_.JPG Graphic file (type jpg)
+
+<use R17_.JPG>
+Package pdftex.def Info: R17_.JPG used on input line 132.
+(pdftex.def)             Requested size: 234.00238pt x 92.548pt.
+ <R17.JPG, id=86, 801.74532pt x 817.55438pt>
+File: R17.JPG Graphic file (type jpg)
+ <use R17.JPG>
+Package pdftex.def Info: R17.JPG used on input line 137.
+(pdftex.def)             Requested size: 117.00119pt x 119.29707pt.
+
+<R17half.JPG, id=87, 794.97pt x 614.295pt>
+File: R17half.JPG Graphic file (type jpg)
+ <use R17half.JPG>
+Package pdftex.def Info: R17half.JPG used on input line 141.
+(pdftex.def)             Requested size: 341.43306pt x 263.84175pt.
+
+Underfull \hbox (badness 5985) in paragraph at lines 132--142
+[][]  []
+ []
+
+[5 <D:/必修课/测试/电桥实验/电桥Latex/R17_.JPG> <D:/必修课/测试
+/电桥实验/电桥Latex/R17.JPG> <D:/必修课/测试/电桥实验/电桥Late
+x/R17half.JPG>] <R13_.JPG, id=93, 1652.1725pt x 653.44125pt>
+File: R13_.JPG Graphic file (type jpg)
+ <use R13_.JPG>
+Package pdftex.def Info: R13_.JPG used on input line 154.
+(pdftex.def)             Requested size: 234.00238pt x 92.548pt.
+
+<R13.JPG, id=94, 810.77907pt x 810.77907pt>
+File: R13.JPG Graphic file (type jpg)
+ <use R13.JPG>
+Package pdftex.def Info: R13.JPG used on input line 159.
+(pdftex.def)             Requested size: 117.00119pt x 116.99706pt.
+
+<R13half.JPG, id=95, 794.97pt x 614.295pt>
+File: R13half.JPG Graphic file (type jpg)
+ <use R13half.JPG>
+Package pdftex.def Info: R13half.JPG used on input line 163.
+(pdftex.def)             Requested size: 341.43306pt x 263.84175pt.
+
+Underfull \hbox (badness 5985) in paragraph at lines 154--164
+[][]  []
+ []
+
+[6 <D:/必修课/测试/电桥实验/电桥Latex/R13_.JPG> <D:/必修课/测试
+/电桥实验/电桥Latex/R13.JPG> <D:/必修课/测试/电桥实验/电桥Late
+x/R13half.JPG>] <R15_.JPG, id=99, 1652.1725pt x 653.44125pt>
+File: R15_.JPG Graphic file (type jpg)
+ <use R15_.JPG>
+Package pdftex.def Info: R15_.JPG used on input line 176.
+(pdftex.def)             Requested size: 234.00238pt x 92.548pt.
+
+<R15.JPG, id=100, 810.77907pt x 810.77907pt>
+File: R15.JPG Graphic file (type jpg)
+ <use R15.JPG>
+Package pdftex.def Info: R15.JPG used on input line 181.
+(pdftex.def)             Requested size: 117.00119pt x 116.99706pt.
+
+<R15half.JPG, id=101, 794.97pt x 614.295pt>
+File: R15half.JPG Graphic file (type jpg)
+ <use R15half.JPG>
+Package pdftex.def Info: R15half.JPG used on input line 185.
+(pdftex.def)             Requested size: 341.43306pt x 263.84175pt.
+
+Underfull \hbox (badness 5985) in paragraph at lines 176--186
+[][]  []
+ []
+
+[7 <D:/必修课/测试/电桥实验/电桥Latex/R15_.JPG> <D:/必修课/测试
+/电桥实验/电桥Latex/R15.JPG> <D:/必修课/测试/电桥实验/电桥Late
+x/R15half.JPG>] <R1234_L.JPG, id=106, 1652.1725pt x 653.44125pt>
+File: R1234_L.JPG Graphic file (type jpg)
+
+<use R1234_L.JPG>
+Package pdftex.def Info: R1234_L.JPG used on input line 197.
+(pdftex.def)             Requested size: 234.00238pt x 92.548pt.
+ <R1234L.JPG, id=107, 832.61063pt x 811.53188pt>
+File: R1234L.JPG Graphic file (type jpg)
+
+<use R1234L.JPG>
+Package pdftex.def Info: R1234L.JPG used on input line 202.
+(pdftex.def)             Requested size: 117.00119pt x 114.0347pt.
+ <R1234WL.JPG, id=108, 794.97pt x 614.295pt>
+File: R1234WL.JPG Graphic file (type jpg)
+ <use R1234WL.JPG>
+Package pdftex.def Info: R1234WL.JPG used on input line 206.
+(pdftex.def)             Requested size: 341.43306pt x 263.84175pt.
+
+Underfull \hbox (badness 5985) in paragraph at lines 197--207
+[][]  []
+ []
+
+[8 <D:/必修课/测试/电桥实验/电桥Latex/R1234_L.JPG> <D:/必修课/测
+试/电桥实验/电桥Latex/R1234L.JPG> <D:/必修课/测试/电桥实验/电�
+��Latex/R1234WL.JPG>] <R1234_D.JPG, id=112, 1652.1725pt x 653.44125pt>
+File: R1234_D.JPG Graphic file (type jpg)
+
+<use R1234_D.JPG>
+Package pdftex.def Info: R1234_D.JPG used on input line 219.
+(pdftex.def)             Requested size: 234.00238pt x 92.548pt.
+ <R1234D.JPG, id=113, 812.28468pt x 835.62187pt>
+File: R1234D.JPG Graphic file (type jpg)
+
+<use R1234D.JPG>
+Package pdftex.def Info: R1234D.JPG used on input line 224.
+(pdftex.def)             Requested size: 117.00119pt x 120.3524pt.
+ <R1234WD.JPG, id=114, 794.97pt x 614.295pt>
+File: R1234WD.JPG Graphic file (type jpg)
+ <use R1234WD.JPG>
+Package pdftex.def Info: R1234WD.JPG used on input line 228.
+(pdftex.def)             Requested size: 341.43306pt x 263.84175pt.
+
+Underfull \hbox (badness 5985) in paragraph at lines 219--229
+[][]  []
+ []
+
+[9 <D:/必修课/测试/电桥实验/电桥Latex/R1234_D.JPG> <D:/必修课/测
+试/电桥实验/电桥Latex/R1234D.JPG> <D:/必修课/测试/电桥实验/电�
+��Latex/R1234WD.JPG>] <R1256_L.JPG, id=118, 1652.1725pt x 653.44125pt>
+File: R1256_L.JPG Graphic file (type jpg)
+
+<use R1256_L.JPG>
+Package pdftex.def Info: R1256_L.JPG used on input line 242.
+(pdftex.def)             Requested size: 234.00238pt x 92.548pt.
+ <R1256L.JPG, id=119, 810.77907pt x 810.77907pt>
+File: R1256L.JPG Graphic file (type jpg)
+
+<use R1256L.JPG>
+Package pdftex.def Info: R1256L.JPG used on input line 247.
+(pdftex.def)             Requested size: 117.00119pt x 116.99706pt.
+ <R1256WL.JPG, id=120, 794.97pt x 614.295pt>
+File: R1256WL.JPG Graphic file (type jpg)
+ <use R1256WL.JPG>
+Package pdftex.def Info: R1256WL.JPG used on input line 251.
+(pdftex.def)             Requested size: 341.43306pt x 263.84175pt.
+
+Underfull \hbox (badness 5985) in paragraph at lines 242--252
+[][]  []
+ []
+
+[10 <D:/必修课/测试/电桥实验/电桥Latex/R1256_L.JPG> <D:/必修课/�
+�试/电桥实验/电桥Latex/R1256L.JPG> <D:/必修课/测试/电桥实验/电
+桥Latex/R1256WL.JPG>] <R1256_D.JPG, id=124, 1652.1725pt x 653.44125pt>
+File: R1256_D.JPG Graphic file (type jpg)
+
+<use R1256_D.JPG>
+Package pdftex.def Info: R1256_D.JPG used on input line 264.
+(pdftex.def)             Requested size: 234.00238pt x 92.548pt.
+ <R1256D.JPG, id=125, 813.0375pt x 819.06pt>
+File: R1256D.JPG Graphic file (type jpg)
+ <use R1256D.JPG>
+Package pdftex.def Info: R1256D.JPG used on input line 269.
+(pdftex.def)             Requested size: 117.00119pt x 117.86705pt.
+
+<R1256WD.JPG, id=126, 794.97pt x 614.295pt>
+File: R1256WD.JPG Graphic file (type jpg)
+ <use R1256WD.JPG>
+Package pdftex.def Info: R1256WD.JPG used on input line 273.
+(pdftex.def)             Requested size: 341.43306pt x 263.84175pt.
+
+Underfull \hbox (badness 5985) in paragraph at lines 264--274
+[][]  []
+ []
+
+[11 <D:/必修课/测试/电桥实验/电桥Latex/R1256_D.JPG> <D:/必修课/�
+�试/电桥实验/电桥Latex/R1256D.JPG> <D:/必修课/测试/电桥实验/电
+桥Latex/R1256WD.JPG>]
+Missing character: There is no � in font cmr12!
+ [12]
+(D:\必修课\测试\电桥实验\电桥Latex\测试-电桥实验.aux) ) 
+Here is how much of TeX's memory you used:
+ 4234 strings out of 495354
+ 61513 string characters out of 3183411
+ 123502 words of memory out of 3000000
+ 7289 multiletter control sequences out of 15000+200000
+ 42794 words of font info for 147 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 44i,10n,43p,688b,434s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/tex
+live/CTex/CTeX/fonts/truetype/chinese/simsun.ttf><D:/texlive/CTex/CTeX/fonts/tr
+uetype/chinese/simsun.ttf><D:/texlive/CTex/CTeX/fonts/truetype/chinese/simsun.t
+tf><D:/texlive/CTex/CTeX/fonts/truetype/chinese/simsun.ttf><D:/texlive/CTex/CTe
+X/fonts/truetype/chinese/simsun.ttf><D:/texlive/CTex/CTeX/fonts/truetype/chines
+e/simsun.ttf><D:/texlive/CTex/CTeX/fonts/truetype/chinese/simsun.ttf><D:/texliv
+e/CTex/CTeX/fonts/truetype/chinese/simsun.ttf><D:/texlive/CTex/CTeX/fonts/truet
+ype/chinese/simsun.ttf><D:/texlive/CTex/CTeX/fonts/truetype/chinese/simsun.ttf>
+<D:/texlive/CTex/CTeX/fonts/truetype/chinese/simsun.ttf><D:/texlive/CTex/CTeX/f
+onts/truetype/chinese/simsun.ttf><D:/texlive/CTex/CTeX/fonts/truetype/chinese/s
+imsun.ttf><D:/texlive/CTex/CTeX/fonts/truetype/chinese/simsun.ttf><D:/texlive/C
+Tex/CTeX/fonts/truetype/chinese/simsun.ttf><D:/texlive/CTex/CTeX/fonts/truetype
+/chinese/simsun.ttf><D:/texlive/CTex/CTeX/fonts/truetype/chinese/simsun.ttf><D:
+/texlive/CTex/CTeX/fonts/truetype/chinese/simsun.ttf><D:/texlive/CTex/CTeX/font
+s/truetype/chinese/simsun.ttf><D:/texlive/CTex/CTeX/fonts/truetype/chinese/sims
+un.ttf><D:/texlive/CTex/CTeX/fonts/truetype/chinese/simsun.ttf><D:/texlive/CTex
+/CTeX/fonts/truetype/chinese/simsun.ttf><D:/texlive/CTex/CTeX/fonts/truetype/ch
+inese/simsun.ttf><D:/texlive/CTex/CTeX/fonts/truetype/chinese/simsun.ttf><D:/te
+xlive/CTex/CTeX/fonts/truetype/chinese/simsun.ttf><D:/texlive/CTex/CTeX/fonts/t
+ruetype/chinese/simsun.ttf><D:/texlive/CTex/CTeX/fonts/truetype/chinese/simsun.
+ttf><D:/texlive/CTex/CTeX/fonts/truetype/chinese/simsun.ttf><D:/texlive/CTex/CT
+eX/fonts/truetype/chinese/simsun.ttf><D:/texlive/CTex/CTeX/fonts/truetype/chine
+se/simsun.ttf><D:/texlive/CTex/CTeX/fonts/truetype/chinese/simsun.ttf><D:/texli
+ve/CTex/CTeX/fonts/truetype/chinese/simsun.ttf><D:/texlive/CTex/CTeX/fonts/true
+type/chinese/simsun.ttf><D:/texlive/CTex/CTeX/fonts/truetype/chinese/simsun.ttf
+><D:/texlive/CTex/CTeX/fonts/truetype/chinese/simsun.ttf><D:/texlive/CTex/CTeX/
+fonts/truetype/chinese/simsun.ttf><D:/texlive/CTex/CTeX/fonts/truetype/chinese/
+simsun.ttf><D:/texlive/CTex/CTeX/fonts/truetype/chinese/simsun.ttf><D:/texlive/
+CTex/CTeX/fonts/truetype/chinese/simsun.ttf><D:/texlive/CTex/CTeX/fonts/truetyp
+e/chinese/simsun.ttf><D:/texlive/CTex/CTeX/fonts/truetype/chinese/simsun.ttf><D
+:/texlive/CTex/CTeX/fonts/truetype/chinese/simsun.ttf><D:/texlive/CTex/CTeX/fon
+ts/truetype/chinese/simsun.ttf><D:/texlive/CTex/CTeX/fonts/truetype/chinese/sim
+sun.ttf><D:/texlive/CTex/CTeX/fonts/truetype/chinese/simsun.ttf><D:/texlive/CTe
+x/CTeX/fonts/truetype/chinese/simsun.ttf><D:/texlive/CTex/CTeX/fonts/truetype/c
+hinese/simsun.ttf><D:/texlive/CTex/CTeX/fonts/truetype/chinese/simsun.ttf><D:/t
+exlive/CTex/CTeX/fonts/truetype/chinese/simsun.ttf><D:/texlive/CTex/CTeX/fonts/
+truetype/chinese/simsun.ttf><D:/texlive/CTex/CTeX/fonts/truetype/chinese/simsun
+.ttf><D:/texlive/CTex/CTeX/fonts/truetype/chinese/simsun.ttf><D:/texlive/CTex/C
+TeX/fonts/truetype/chinese/simsun.ttf><D:/texlive/CTex/CTeX/fonts/truetype/chin
+ese/simsun.ttf><D:/texlive/CTex/CTeX/fonts/truetype/chinese/simsun.ttf><D:/texl
+ive/CTex/CTeX/fonts/truetype/chinese/simsun.ttf><D:/texlive/CTex/CTeX/fonts/tru
+etype/chinese/simsun.ttf><D:/texlive/CTex/CTeX/fonts/truetype/chinese/simsun.tt
+f><D:/texlive/CTex/CTeX/fonts/truetype/chinese/simsun.ttf><D:/texlive/CTex/CTeX
+/fonts/truetype/chinese/simsun.ttf><D:/texlive/CTex/CTeX/fonts/truetype/chinese
+/simsun.ttf><D:/texlive/CTex/CTeX/fonts/truetype/chinese/simsun.ttf><D:/texlive
+/CTex/CTeX/fonts/truetype/chinese/simsun.ttf><D:/texlive/CTex/CTeX/fonts/truety
+pe/chinese/simsun.ttf><D:/texlive/CTex/CTeX/fonts/truetype/chinese/simsun.ttf><
+D:/texlive/CTex/CTeX/fonts/truetype/chinese/simsun.ttf><D:/texlive/CTex/CTeX/fo
+nts/truetype/chinese/simsun.ttf><D:/texlive/CTex/CTeX/fonts/truetype/chinese/si
+msun.ttf><D:/texlive/CTex/CTeX/fonts/truetype/chinese/simsun.ttf><D:/texlive/CT
+ex/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/texlive/CTex/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmmi12.pfb><D:/texlive/CTex/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmmi8.pfb><D:/texlive/CTex/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmr10.pfb><D:/texlive/CTex/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:
+/texlive/CTex/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/texlive/CTex/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on 测试-电桥实验.pdf (12 pages, 8678903 bytes).
+PDF statistics:
+ 370 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 116 words of extra memory for PDF output out of 10000 (max. 10000000)
+
