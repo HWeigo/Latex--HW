@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2018.3.9)  31 MAR 2019 19:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2018.3.9)  1 APR 2019 17:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -308,6 +308,11 @@ File: c70gbsn.fd 2015/04/18 4.8.4
 (d:/texlive/texmf-dist/tex/latex/cjk/texinput/utf8/c70gbsn.fdx
 File: c70gbsn.fdx 2015/04/18 4.8.4
 )
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 32.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 32.
+
 (./LatexÄ£°å - HW.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 2.
@@ -315,7 +320,9 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 2.
-)
+ [1
+
+{d:/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
 \tf@toc=\write3
 \openout3 = `"LatexÄ£°å - HW.toc"'.
 
@@ -326,49 +333,45 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[1{d:/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
-
-]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 57.
-
-(d:/texlive/texmf-dist/tex/latex/base/omscmr.fd
+[2]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 67.
+ (d:/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 57.
- [2]
-<chap2//fig1.jpg, id=73, 267.399pt x 200.7135pt>
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 67.
+ [3]
+<chap2//fig1.jpg, id=80, 267.399pt x 200.7135pt>
 File: chap2//fig1.jpg Graphic file (type jpg)
 <use chap2//fig1.jpg>
-Package pdftex.def Info: chap2//fig1.jpg  used on input line 82.
+Package pdftex.def Info: chap2//fig1.jpg  used on input line 92.
 (pdftex.def)             Requested size: 312.00119pt x 234.21211pt.
-<chap2//figa.jpg, id=74, 629.9535pt x 367.3725pt>
+<chap2//figa.jpg, id=81, 629.9535pt x 367.3725pt>
 File: chap2//figa.jpg Graphic file (type jpg)
 <use chap2//figa.jpg>
-Package pdftex.def Info: chap2//figa.jpg  used on input line 88.
+Package pdftex.def Info: chap2//figa.jpg  used on input line 98.
 (pdftex.def)             Requested size: 312.00119pt x 181.95364pt.
- [3 <./chap2//fig1.jpg>]
-<chap2//fig3.jpg, id=78, 431.211pt x 351.11176pt>
+ [4 <./chap2//fig1.jpg>]
+<chap2//fig3.jpg, id=85, 431.211pt x 351.11176pt>
 File: chap2//fig3.jpg Graphic file (type jpg)
 <use chap2//fig3.jpg>
-Package pdftex.def Info: chap2//fig3.jpg  used on input line 100.
+Package pdftex.def Info: chap2//fig3.jpg  used on input line 110.
 (pdftex.def)             Requested size: 175.49881pt x 142.9013pt.
-<chap2//fig4.jpg, id=79, 189.1065pt x 173.448pt>
+<chap2//fig4.jpg, id=86, 189.1065pt x 173.448pt>
 File: chap2//fig4.jpg Graphic file (type jpg)
 <use chap2//fig4.jpg>
-Package pdftex.def Info: chap2//fig4.jpg  used on input line 105.
+Package pdftex.def Info: chap2//fig4.jpg  used on input line 115.
 (pdftex.def)             Requested size: 155.99762pt x 143.08841pt.
-
-[4 <./chap2//figa.jpg> <./chap2//fig3.jpg> <./chap2//fig4.jpg>]
+ [5 <./chap2//figa.jpg> <./chap2//fig3.jpg> <./chap2//fig4.jpg>]
 Missing character: There is no ê in font cmr12!
 Missing character: There is no ê in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 115--120
+Underfull \hbox (badness 10000) in paragraph at lines 125--130
 
  []
 
 
-Overfull \hbox (1.96443pt too wide) in paragraph at lines 125--137
+Overfull \hbox (1.96443pt too wide) in paragraph at lines 135--147
 []\C70/gbsn/m/n/12/89 ã \C70/gbsn/m/n/12/51 ³ \C70/gbsn/m/n/12/65 ¹ \C70/gbsn/m
 /n/12/68 H \C70/gbsn/m/n/12/ff ^^Z\OT1/cmr/m/n/12 1)excel\C70/gbsn/m/n/12/62 * 
 \C70/gbsn/m/n/12/56 þ \C70/gbsn/m/n/12/ff ^^[\OT1/cmr/m/n/12 2)\C70/gbsn/m/n/12
@@ -380,128 +383,132 @@ OT1/cmr/m/n/12 or\C70/gbsn/m/n/12/7f ^^V \C70/gbsn/m/n/12/8b Ñ \C70/gbsn/m/n/12
 bsn/m/n/12/30 ^^B
  []
 
-[5]
-<chap5//fig1.jpg, id=93, 504.38437pt x 529.22719pt>
+[6]
+<chap5//fig1.jpg, id=100, 504.38437pt x 529.22719pt>
 File: chap5//fig1.jpg Graphic file (type jpg)
 <use chap5//fig1.jpg>
-Package pdftex.def Info: chap5//fig1.jpg  used on input line 160.
+Package pdftex.def Info: chap5//fig1.jpg  used on input line 170.
 (pdftex.def)             Requested size: 312.00119pt x 327.36646pt.
- [6 <./chap5//fig1.jpg>]
-<chap5//fig2.jpg, id=98, 480.67078pt x 134.75343pt>
+ [7 <./chap5//fig1.jpg>]
+<chap5//fig2.jpg, id=106, 480.67078pt x 134.75343pt>
 File: chap5//fig2.jpg Graphic file (type jpg)
 <use chap5//fig2.jpg>
-Package pdftex.def Info: chap5//fig2.jpg  used on input line 182.
+Package pdftex.def Info: chap5//fig2.jpg  used on input line 192.
 (pdftex.def)             Requested size: 350.99762pt x 98.40207pt.
-<chap5//fig3.jpg, id=99, 404.63672pt x 137.7647pt>
+<chap5//fig3.jpg, id=107, 404.63672pt x 137.7647pt>
 File: chap5//fig3.jpg Graphic file (type jpg)
 <use chap5//fig3.jpg>
-Package pdftex.def Info: chap5//fig3.jpg  used on input line 188.
+Package pdftex.def Info: chap5//fig3.jpg  used on input line 198.
 (pdftex.def)             Requested size: 300.30167pt x 102.24486pt.
-<chap5//fig4.jpg, id=100, 497.98547pt x 163.3603pt>
+<chap5//fig4.jpg, id=108, 497.98547pt x 163.3603pt>
 File: chap5//fig4.jpg Graphic file (type jpg)
 <use chap5//fig4.jpg>
-Package pdftex.def Info: chap5//fig4.jpg  used on input line 196.
+Package pdftex.def Info: chap5//fig4.jpg  used on input line 206.
 (pdftex.def)             Requested size: 370.49881pt x 121.54279pt.
- [7 <./chap5//fig2.jpg> <./chap5//fig3.jpg>]
-<chap5//fig5.jpg, id=105, 411.78844pt x 273.64734pt>
+ [8 <./chap5//fig2.jpg> <./chap5//fig3.jpg>]
+<chap5//fig5.jpg, id=112, 411.78844pt x 273.64734pt>
 File: chap5//fig5.jpg Graphic file (type jpg)
 <use chap5//fig5.jpg>
-Package pdftex.def Info: chap5//fig5.jpg  used on input line 203.
+Package pdftex.def Info: chap5//fig5.jpg  used on input line 213.
 (pdftex.def)             Requested size: 312.00119pt x 207.33528pt.
 
-[8 <./chap5//fig4.jpg> <./chap5//fig5.jpg>]
-<chap5//fig6.jpg, id=109, 469.3786pt x 304.88907pt>
+[9 <./chap5//fig4.jpg> <./chap5//fig5.jpg>]
+<chap5//fig6.jpg, id=116, 469.3786pt x 304.88907pt>
 File: chap5//fig6.jpg Graphic file (type jpg)
 <use chap5//fig6.jpg>
-Package pdftex.def Info: chap5//fig6.jpg  used on input line 213.
+Package pdftex.def Info: chap5//fig6.jpg  used on input line 223.
 (pdftex.def)             Requested size: 312.00119pt x 202.6603pt.
- [9 <./chap5//fig6.jpg>] [10]
-<chap5//fig7.jpg, id=123, 439.2661pt x 221.70328pt>
+ [10 <./chap5//fig6.jpg>] [11]
+<chap5//fig7.jpg, id=130, 439.2661pt x 221.70328pt>
 File: chap5//fig7.jpg Graphic file (type jpg)
 <use chap5//fig7.jpg>
-Package pdftex.def Info: chap5//fig7.jpg  used on input line 237.
+Package pdftex.def Info: chap5//fig7.jpg  used on input line 247.
 (pdftex.def)             Requested size: 350.99762pt x 177.1565pt.
-<chap5//fig8.jpg, id=124, 1496.59125pt x 509.65407pt>
+<chap5//fig8.jpg, id=131, 1496.59125pt x 509.65407pt>
 File: chap5//fig8.jpg Graphic file (type jpg)
 <use chap5//fig8.jpg>
-Package pdftex.def Info: chap5//fig8.jpg  used on input line 242.
+Package pdftex.def Info: chap5//fig8.jpg  used on input line 252.
 (pdftex.def)             Requested size: 350.99762pt x 119.52763pt.
 
-[11 <./chap5//fig7.jpg> <./chap5//fig8.jpg>] (./LatexÄ£°å - HW.aux) ) 
+[12 <./chap5//fig7.jpg> <./chap5//fig8.jpg>] (./LatexÄ£°å - HW.aux) ) 
 Here is how much of TeX's memory you used:
- 4892 strings out of 492982
- 74177 string characters out of 6138551
+ 4928 strings out of 492982
+ 74845 string characters out of 6138551
  134880 words of memory out of 5000000
- 8318 multiletter control sequences out of 15000+600000
- 42716 words of font info for 153 fonts, out of 8000000 for 9000
+ 8351 multiletter control sequences out of 15000+600000
+ 49375 words of font info for 176 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,12n,43p,529b,517s stack positions out of 5000i,500n,10000p,200000b,80000s
 <d:/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><d:/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmmi12.pfb><d:/texlive/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmr10.pfb><d:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmr12.pfb><d:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/t
-exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/texlive/texmf-d
-ist/fonts/type1/arphic/gbsnu/gbsnu00.pfb><d:/texlive/texmf-dist/fonts/type1/arp
-hic/gbsnu/gbsnu20.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu30.p
-fb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu4e.pfb><d:/texlive/texm
-f-dist/fonts/type1/arphic/gbsnu/gbsnu4f.pfb><d:/texlive/texmf-dist/fonts/type1/
-arphic/gbsnu/gbsnu50.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5
-1.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu52.pfb><d:/texlive/t
-exmf-dist/fonts/type1/arphic/gbsnu/gbsnu53.pfb><d:/texlive/texmf-dist/fonts/typ
-e1/arphic/gbsnu/gbsnu54.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbs
-nu56.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu57.pfb><d:/texliv
-e/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu58.pfb><d:/texlive/texmf-dist/fonts/
-type1/arphic/gbsnu/gbsnu59.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/
-gbsnu5b.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5c.pfb><d:/tex
-live/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5d.pfb><d:/texlive/texmf-dist/fon
-ts/type1/arphic/gbsnu/gbsnu5e.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbs
-nu/gbsnu5f.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu60.pfb><d:/
-texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu61.pfb><d:/texlive/texmf-dist/
-fonts/type1/arphic/gbsnu/gbsnu62.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/
-gbsnu/gbsnu63.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu64.pfb><
-d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu65.pfb><d:/texlive/texmf-di
-st/fonts/type1/arphic/gbsnu/gbsnu66.pfb><d:/texlive/texmf-dist/fonts/type1/arph
-ic/gbsnu/gbsnu67.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu68.pf
-b><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu69.pfb><d:/texlive/texmf
--dist/fonts/type1/arphic/gbsnu/gbsnu6a.pfb><d:/texlive/texmf-dist/fonts/type1/a
-rphic/gbsnu/gbsnu6b.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6c
-.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6d.pfb><d:/texlive/te
-xmf-dist/fonts/type1/arphic/gbsnu/gbsnu6e.pfb><d:/texlive/texmf-dist/fonts/type
-1/arphic/gbsnu/gbsnu6f.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsn
-u70.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu71.pfb><d:/texlive
-/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu72.pfb><d:/texlive/texmf-dist/fonts/t
-ype1/arphic/gbsnu/gbsnu73.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/g
-bsnu74.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu75.pfb><d:/texl
-ive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu76.pfb><d:/texlive/texmf-dist/font
-s/type1/arphic/gbsnu/gbsnu77.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsn
-u/gbsnu78.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu79.pfb><d:/t
-exlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7a.pfb><d:/texlive/texmf-dist/f
-onts/type1/arphic/gbsnu/gbsnu7b.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/g
-bsnu/gbsnu7c.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7d.pfb><d
-:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7e.pfb><d:/texlive/texmf-dis
-t/fonts/type1/arphic/gbsnu/gbsnu7f.pfb><d:/texlive/texmf-dist/fonts/type1/arphi
-c/gbsnu/gbsnu80.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu81.pfb
-><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu82.pfb><d:/texlive/texmf-
-dist/fonts/type1/arphic/gbsnu/gbsnu83.pfb><d:/texlive/texmf-dist/fonts/type1/ar
-phic/gbsnu/gbsnu86.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu88.
-pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu89.pfb><d:/texlive/tex
-mf-dist/fonts/type1/arphic/gbsnu/gbsnu8a.pfb><d:/texlive/texmf-dist/fonts/type1
-/arphic/gbsnu/gbsnu8b.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu
-8c.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8d.pfb><d:/texlive/
-texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8f.pfb><d:/texlive/texmf-dist/fonts/ty
-pe1/arphic/gbsnu/gbsnu90.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gb
-snu91.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu94.pfb><d:/texli
-ve/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu95.pfb><d:/texlive/texmf-dist/fonts
-/type1/arphic/gbsnu/gbsnu96.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu
-/gbsnu97.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu98.pfb><d:/te
-xlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu99.pfb><d:/texlive/texmf-dist/fo
-nts/type1/arphic/gbsnu/gbsnu9a.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gb
-snu/gbsnu9f.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnuff.pfb>
-Output written on "LatexÄ£°å - HW.pdf" (11 pages, 1567230 bytes).
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><d:/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmbx12.pfb><d:/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmmi12.pfb><d:/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmr10.pfb><d:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><d:/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmsy10.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/
+gbsnu00.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu20.pfb><d:/tex
+live/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu30.pfb><d:/texlive/texmf-dist/fon
+ts/type1/arphic/gbsnu/gbsnu4e.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbs
+nu/gbsnu4f.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu50.pfb><d:/
+texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu51.pfb><d:/texlive/texmf-dist/
+fonts/type1/arphic/gbsnu/gbsnu52.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/
+gbsnu/gbsnu53.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu54.pfb><
+d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu56.pfb><d:/texlive/texmf-di
+st/fonts/type1/arphic/gbsnu/gbsnu57.pfb><d:/texlive/texmf-dist/fonts/type1/arph
+ic/gbsnu/gbsnu58.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu59.pf
+b><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5a.pfb><d:/texlive/texmf
+-dist/fonts/type1/arphic/gbsnu/gbsnu5b.pfb><d:/texlive/texmf-dist/fonts/type1/a
+rphic/gbsnu/gbsnu5c.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5d
+.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5e.pfb><d:/texlive/te
+xmf-dist/fonts/type1/arphic/gbsnu/gbsnu5f.pfb><d:/texlive/texmf-dist/fonts/type
+1/arphic/gbsnu/gbsnu60.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsn
+u61.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu62.pfb><d:/texlive
+/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu63.pfb><d:/texlive/texmf-dist/fonts/t
+ype1/arphic/gbsnu/gbsnu64.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/g
+bsnu65.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu66.pfb><d:/texl
+ive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu67.pfb><d:/texlive/texmf-dist/font
+s/type1/arphic/gbsnu/gbsnu68.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsn
+u/gbsnu69.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6a.pfb><d:/t
+exlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6b.pfb><d:/texlive/texmf-dist/f
+onts/type1/arphic/gbsnu/gbsnu6c.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/g
+bsnu/gbsnu6d.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6e.pfb><d
+:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6f.pfb><d:/texlive/texmf-dis
+t/fonts/type1/arphic/gbsnu/gbsnu70.pfb><d:/texlive/texmf-dist/fonts/type1/arphi
+c/gbsnu/gbsnu71.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu72.pfb
+><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu73.pfb><d:/texlive/texmf-
+dist/fonts/type1/arphic/gbsnu/gbsnu74.pfb><d:/texlive/texmf-dist/fonts/type1/ar
+phic/gbsnu/gbsnu75.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu76.
+pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu77.pfb><d:/texlive/tex
+mf-dist/fonts/type1/arphic/gbsnu/gbsnu78.pfb><d:/texlive/texmf-dist/fonts/type1
+/arphic/gbsnu/gbsnu79.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu
+7a.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7b.pfb><d:/texlive/
+texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7c.pfb><d:/texlive/texmf-dist/fonts/ty
+pe1/arphic/gbsnu/gbsnu7d.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gb
+snu7e.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7f.pfb><d:/texli
+ve/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu80.pfb><d:/texlive/texmf-dist/fonts
+/type1/arphic/gbsnu/gbsnu81.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu
+/gbsnu82.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu83.pfb><d:/te
+xlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu86.pfb><d:/texlive/texmf-dist/fo
+nts/type1/arphic/gbsnu/gbsnu88.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gb
+snu/gbsnu89.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8a.pfb><d:
+/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8b.pfb><d:/texlive/texmf-dist
+/fonts/type1/arphic/gbsnu/gbsnu8c.pfb><d:/texlive/texmf-dist/fonts/type1/arphic
+/gbsnu/gbsnu8d.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8f.pfb>
+<d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu90.pfb><d:/texlive/texmf-d
+ist/fonts/type1/arphic/gbsnu/gbsnu91.pfb><d:/texlive/texmf-dist/fonts/type1/arp
+hic/gbsnu/gbsnu94.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu95.p
+fb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu96.pfb><d:/texlive/texm
+f-dist/fonts/type1/arphic/gbsnu/gbsnu97.pfb><d:/texlive/texmf-dist/fonts/type1/
+arphic/gbsnu/gbsnu98.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu9
+9.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu9a.pfb><d:/texlive/t
+exmf-dist/fonts/type1/arphic/gbsnu/gbsnu9e.pfb><d:/texlive/texmf-dist/fonts/typ
+e1/arphic/gbsnu/gbsnu9f.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbs
+nuff.pfb>
+Output written on "LatexÄ£°å - HW.pdf" (12 pages, 1592539 bytes).
 PDF statistics:
- 374 PDF objects out of 1000 (max. 8388607)
- 266 compressed objects within 3 object streams
+ 393 PDF objects out of 1000 (max. 8388607)
+ 280 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  61 words of extra memory for PDF output out of 10000 (max. 10000000)
 

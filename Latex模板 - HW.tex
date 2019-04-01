@@ -25,11 +25,21 @@
  \renewcommand{\headrulewidth}{0.4pt}
  \renewcommand{\footrulewidth}{0.4pt}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%标题
 \author{黄威}
-\title{latex模板}              %暂未使用
+\title{latex模板}              
+\date{\today}
+\maketitle                         %插入标题
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%摘要
+\begin{abstract}
+该部分内容是放置摘要信息的。该部分内容是放置摘要信息的。该部分内容是放置摘要信息的。该部分内容是放置摘要信息的。该部分内容是放置摘要信息的。
+\end{abstract}
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%目录
 \renewcommand{\contentsname}{目录} %将content改为目录
-\tableofcontents
+\tableofcontents                  %插入目录
 \newpage
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %该语句将图片下标 figure 该为 图
@@ -68,8 +78,8 @@
 
 \subsubsection{平地行驶}
 \label{sec:format}
-
 不仅要能够实现越障功能，移动平台机器人在较为平坦的路面上，具有出色的行走能力同样重要。速度太慢而被抛弃的机器人并不在少数。
+
 
 \newpage                                    %新建一页
 
