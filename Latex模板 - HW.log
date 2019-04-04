@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2018.3.9)  2 APR 2019 23:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2018.3.9)  4 APR 2019 23:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,8 +8,8 @@ LaTeX2e <2017-04-15>
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (d:/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(d:/texlive/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+(d:/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -110,6 +110,32 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks16
 \@floatcapt=\box28
 )
+(d:/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(d:/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+(d:/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(d:/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count93
+\Gm@cntv=\count94
+\c@Gm@tempcnt=\count95
+\Gm@bindingoffset=\dimen108
+\Gm@wd@mp=\dimen109
+\Gm@odd@mp=\dimen110
+\Gm@even@mp=\dimen111
+\Gm@layoutwidth=\dimen112
+\Gm@layoutheight=\dimen113
+\Gm@layouthoffset=\dimen114
+\Gm@layoutvoffset=\dimen115
+\Gm@dimlist=\toks17
+)
 (d:/texlive/texmf-dist/tex/latex/subfig/subfig.sty
 Package: subfig 2005/06/28 ver: 1.3 subfig package
 
@@ -119,21 +145,21 @@ Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 (d:/texlive/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
-\captionmargin=\dimen108
-\captionmargin@=\dimen109
-\captionwidth=\dimen110
-\caption@tempdima=\dimen111
-\caption@indent=\dimen112
-\caption@parindent=\dimen113
-\caption@hangindent=\dimen114
+\captionmargin=\dimen116
+\captionmargin@=\dimen117
+\captionwidth=\dimen118
+\caption@tempdima=\dimen119
+\caption@indent=\dimen120
+\caption@parindent=\dimen121
+\caption@hangindent=\dimen122
 )
-\c@ContinuedFloat=\count93
+\c@ContinuedFloat=\count96
 Package caption Info: float package is loaded.
 Package caption Info: subfigure package is loaded.
 )
-\c@KVtest=\count94
+\c@KVtest=\count97
 \sf@farskip=\skip60
-\sf@captopadj=\dimen115
+\sf@captopadj=\dimen123
 \sf@capskip=\skip61
 \sf@nearskip=\skip62
 \sf@top=\skip63
@@ -141,95 +167,95 @@ Package caption Info: subfigure package is loaded.
 ) (./Latexƒ£∞Â - HW.aux)
 \openout1 = `"Latexƒ£∞Â - HW.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
 (d:/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count95
-\scratchdimen=\dimen116
+\scratchcounter=\count98
+\scratchdimen=\dimen124
 \scratchbox=\box29
-\nofMPsegments=\count96
-\nofMParguments=\count97
-\everyMPshowfont=\toks17
-\MPscratchCnt=\count98
-\MPscratchDim=\dimen117
-\MPnumerator=\count99
-\makeMPintoPDFobject=\count100
-\everyMPtoPDFconversion=\toks18
+\nofMPsegments=\count99
+\nofMParguments=\count100
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count101
+\MPscratchDim=\dimen125
+\MPnumerator=\count102
+\makeMPintoPDFobject=\count103
+\everyMPtoPDFconversion=\toks19
 ) (d:/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -266,10 +292,6 @@ Package etexcmds Info: Could not find \expanded.
 (d:/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
 )
-
-(d:/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
-)
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
@@ -286,10 +308,43 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 443.57848pt, 85.35826pt)
+* v-part:(T,H,B)=(95.39737pt, 599.98798pt, 99.58464pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=443.57848pt
+* \textheight=599.98798pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-13.87262pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
-
 (d:/texlive/texmf-dist/tex/latex/cjk/texinput/utf8/UTF8.bdg
 File: UTF8.bdg 2015/04/18 4.8.4
 )
@@ -299,7 +354,7 @@ File: UTF8.enc 2015/04/18 4.8.4
 (d:/texlive/texmf-dist/tex/latex/cjk/texinput/utf8/UTF8.chr
 File: UTF8.chr 2015/04/18 4.8.4
 )
-LaTeX Font Info:    Try loading font information for C70+gbsn on input line 33.
+LaTeX Font Info:    Try loading font information for C70+gbsn on input line 35.
 
 
 (d:/texlive/texmf-dist/tex/latex/cjk/texinput/utf8/c70gbsn.fd
@@ -309,17 +364,15 @@ File: c70gbsn.fd 2015/04/18 4.8.4
 File: c70gbsn.fdx 2015/04/18 4.8.4
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 33.
+(Font)              <12> on input line 35.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 33.
+(Font)              <8> on input line 35.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 35.
 
 (./Latexƒ£∞Â - HW.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 2.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 2.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 2.
+(Font)              <10.95> on input line 2.
  [1
 
 {d:/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
@@ -329,186 +382,187 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.51997pt.
+ Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
 [2]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 68.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 70.
  (d:/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 68.
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 70.
  [3]
 <chap2//fig1.jpg, id=81, 267.399pt x 200.7135pt>
 File: chap2//fig1.jpg Graphic file (type jpg)
 <use chap2//fig1.jpg>
-Package pdftex.def Info: chap2//fig1.jpg  used on input line 93.
-(pdftex.def)             Requested size: 312.00119pt x 234.21211pt.
+Package pdftex.def Info: chap2//fig1.jpg  used on input line 95.
+(pdftex.def)             Requested size: 354.86412pt x 266.38818pt.
 <chap2//figa.jpg, id=82, 629.9535pt x 367.3725pt>
 File: chap2//figa.jpg Graphic file (type jpg)
 <use chap2//figa.jpg>
-Package pdftex.def Info: chap2//figa.jpg  used on input line 99.
-(pdftex.def)             Requested size: 312.00119pt x 181.95364pt.
- [4 <./chap2//fig1.jpg>]
-<chap2//fig3.jpg, id=86, 431.211pt x 351.11176pt>
+Package pdftex.def Info: chap2//figa.jpg  used on input line 101.
+(pdftex.def)             Requested size: 354.86412pt x 206.94922pt.
+<chap2//fig3.jpg, id=83, 431.211pt x 351.11176pt>
 File: chap2//fig3.jpg Graphic file (type jpg)
 <use chap2//fig3.jpg>
-Package pdftex.def Info: chap2//fig3.jpg  used on input line 111.
-(pdftex.def)             Requested size: 175.49881pt x 142.9013pt.
-<chap2//fig4.jpg, id=87, 189.1065pt x 173.448pt>
+Package pdftex.def Info: chap2//fig3.jpg  used on input line 113.
+(pdftex.def)             Requested size: 199.60895pt x 162.53128pt.
+<chap2//fig4.jpg, id=84, 189.1065pt x 173.448pt>
 File: chap2//fig4.jpg Graphic file (type jpg)
 <use chap2//fig4.jpg>
-Package pdftex.def Info: chap2//fig4.jpg  used on input line 116.
-(pdftex.def)             Requested size: 155.99762pt x 143.08841pt.
- [5 <./chap2//figa.jpg> <./chap2//fig3.jpg> <./chap2//fig4.jpg>]
-Missing character: There is no Í in font cmr12!
-Missing character: There is no Í in font cmr12!
+Package pdftex.def Info: chap2//fig4.jpg  used on input line 118.
+(pdftex.def)             Requested size: 177.42868pt x 162.74736pt.
+ [4 <./chap2//fig1.jpg> <./chap2//figa.jpg>] [5 <./chap2//fig3.jpg> <./chap2//f
+ig4.jpg>]
+Missing character: There is no Í in font cmr10!
+Missing character: There is no Í in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 126--131
+Underfull \hbox (badness 10000) in paragraph at lines 128--133
 
- []
-
-
-Overfull \hbox (1.96443pt too wide) in paragraph at lines 136--148
-[]\C70/gbsn/m/n/12/89 „ \C70/gbsn/m/n/12/51 ≥ \C70/gbsn/m/n/12/65 π \C70/gbsn/m
-/n/12/68 H \C70/gbsn/m/n/12/ff ^^Z\OT1/cmr/m/n/12 1)excel\C70/gbsn/m/n/12/62 * 
-\C70/gbsn/m/n/12/56 ˛ \C70/gbsn/m/n/12/ff ^^[\OT1/cmr/m/n/12 2)\C70/gbsn/m/n/12
-/81 Í \C70/gbsn/bx/n/12/52 ® \C70/gbsn/m/n/12/75 ^^_ \C70/gbsn/m/n/12/62 ^^P \C
-70/gbsn/bx/n/12/88 h \C70/gbsn/m/n/12/68 < \C70/gbsn/m/n/12/4e „ \C70/gbsn/m/n/
-12/78 ^^A \C70/gbsn/m/n/12/ff ^^H \C70/gbsn/bx/n/12/57 ( \C70/gbsn/m/n/12/7e ø\
-OT1/cmr/m/n/12 or\C70/gbsn/m/n/12/7f ^^V \C70/gbsn/m/n/12/8b — \C70/gbsn/m/n/12
-/56 h \C70/gbsn/m/n/12/81 Í \C70/gbsn/bx/n/12/5e & \C70/gbsn/m/n/12/ff 	 \C70/g
-bsn/m/n/12/30 ^^B
  []
 
 [6]
-<chap5//fig1.jpg, id=100, 504.38437pt x 529.22719pt>
+<chap5//fig1.jpg, id=101, 504.38437pt x 529.22719pt>
 File: chap5//fig1.jpg Graphic file (type jpg)
 <use chap5//fig1.jpg>
-Package pdftex.def Info: chap5//fig1.jpg  used on input line 171.
-(pdftex.def)             Requested size: 312.00119pt x 327.36646pt.
+Package pdftex.def Info: chap5//fig1.jpg  used on input line 173.
+(pdftex.def)             Requested size: 354.86412pt x 372.34613pt.
  [7 <./chap5//fig1.jpg>]
-<chap5//fig2.jpg, id=106, 480.67078pt x 134.75343pt>
+<chap5//fig2.jpg, id=107, 480.67078pt x 134.75343pt>
 File: chap5//fig2.jpg Graphic file (type jpg)
 <use chap5//fig2.jpg>
-Package pdftex.def Info: chap5//fig2.jpg  used on input line 193.
-(pdftex.def)             Requested size: 350.99762pt x 98.40207pt.
-<chap5//fig3.jpg, id=107, 404.63672pt x 137.7647pt>
+Package pdftex.def Info: chap5//fig2.jpg  used on input line 195.
+(pdftex.def)             Requested size: 399.21791pt x 111.92139pt.
+<chap5//fig3.jpg, id=108, 404.63672pt x 137.7647pt>
 File: chap5//fig3.jpg Graphic file (type jpg)
 <use chap5//fig3.jpg>
-Package pdftex.def Info: chap5//fig3.jpg  used on input line 199.
-(pdftex.def)             Requested size: 300.30167pt x 102.24486pt.
-<chap5//fig4.jpg, id=108, 497.98547pt x 163.3603pt>
+Package pdftex.def Info: chap5//fig3.jpg  used on input line 201.
+(pdftex.def)             Requested size: 341.55731pt x 116.29121pt.
+<chap5//fig4.jpg, id=109, 497.98547pt x 163.3603pt>
 File: chap5//fig4.jpg Graphic file (type jpg)
 <use chap5//fig4.jpg>
-Package pdftex.def Info: chap5//fig4.jpg  used on input line 207.
-(pdftex.def)             Requested size: 370.49881pt x 121.54279pt.
+Package pdftex.def Info: chap5//fig4.jpg  used on input line 209.
+(pdftex.def)             Requested size: 421.3982pt x 138.23871pt.
  [8 <./chap5//fig2.jpg> <./chap5//fig3.jpg>]
-<chap5//fig5.jpg, id=112, 411.78844pt x 273.64734pt>
+<chap5//fig5.jpg, id=113, 411.78844pt x 273.64734pt>
 File: chap5//fig5.jpg Graphic file (type jpg)
 <use chap5//fig5.jpg>
-Package pdftex.def Info: chap5//fig5.jpg  used on input line 214.
-(pdftex.def)             Requested size: 312.00119pt x 207.33528pt.
+Package pdftex.def Info: chap5//fig5.jpg  used on input line 216.
+(pdftex.def)             Requested size: 354.86412pt x 235.82065pt.
 
 [9 <./chap5//fig4.jpg> <./chap5//fig5.jpg>]
-<chap5//fig6.jpg, id=116, 469.3786pt x 304.88907pt>
+<chap5//fig6.jpg, id=117, 469.3786pt x 304.88907pt>
 File: chap5//fig6.jpg Graphic file (type jpg)
 <use chap5//fig6.jpg>
-Package pdftex.def Info: chap5//fig6.jpg  used on input line 224.
-(pdftex.def)             Requested size: 312.00119pt x 202.6603pt.
- [10 <./chap5//fig6.jpg>] [11]
-<chap5//fig7.jpg, id=130, 439.2661pt x 221.70328pt>
+Package pdftex.def Info: chap5//fig6.jpg  used on input line 226.
+(pdftex.def)             Requested size: 354.86412pt x 230.50386pt.
+ [10 <./chap5//fig6.jpg>]
+Overfull \hbox (3.91154pt too wide) in paragraph at lines 245--245
+[]\C70/gbsn/m/n/10.95/8b Ù \C70/gbsn/m/n/10.95/66 ^^N \C70/gbsn/m/n/10.95/ff ^^
+L \C70/gbsn/m/n/10.95/8b Â \C70/gbsn/m/n/10.95/5d Â \C70/gbsn/bx/n/10.95/7a  \
+C70/gbsn/m/n/10.95/4e : \C70/gbsn/bx/n/10.95/91 M \C70/gbsn/m/n/10.95/59 W \C70
+/gbsn/bx/n/10.95/65 9 \C70/gbsn/bx/n/10.95/88 ≈ \C70/gbsn/m/n/10.95/8d ≥ \C70/g
+bsn/bx/n/10.95/5f ^^O \C70/gbsn/bx/n/10.95/9a q \C70/gbsn/bx/n/10.95/52 ® \C70/
+gbsn/m/n/10.95/75 5 \C70/gbsn/m/n/10.95/67 : \C70/gbsn/m/n/10.95/4e :\OT1/cmr/m
+/n/10.95 M3508\C70/gbsn/bx/n/10.95/54 ^^N \C70/gbsn/m/n/10.95/76 Ñ \C70/gbsn/bx
+/n/10.95/7a  \C70/gbsn/bx/n/10.95/5e è \C70/gbsn/m/n/10.95/ff ^^L \C70/gbsn/m/
+n/10.95/6e ê \C70/gbsn/bx/n/10.95/78 ^^A \C70/gbsn/m/n/10.95/4e : \C70/gbsn/bx/
+n/10.95/65 á \C70/gbsn/m/n/10.95/4e ˆ \C70/gbsn/m/n/10.95/20 ^^\ \C70/gbsn/m/n/
+10.95/51 m \C70/gbsn/m/n/10.95/8d ≥\OT1/cmr/m/n/10.95 -stm32\C70/gbsn/m/n/10.95
+/20 ^^] \C70/gbsn/m/n/10.95/ff ^^L
+ []
+
+<chap5//fig7.jpg, id=126, 439.2661pt x 221.70328pt>
 File: chap5//fig7.jpg Graphic file (type jpg)
 <use chap5//fig7.jpg>
-Package pdftex.def Info: chap5//fig7.jpg  used on input line 248.
-(pdftex.def)             Requested size: 350.99762pt x 177.1565pt.
-<chap5//fig8.jpg, id=131, 1496.59125pt x 509.65407pt>
+Package pdftex.def Info: chap5//fig7.jpg  used on input line 250.
+(pdftex.def)             Requested size: 399.21791pt x 201.49657pt.
+<chap5//fig8.jpg, id=127, 1496.59125pt x 509.65407pt>
 File: chap5//fig8.jpg Graphic file (type jpg)
 <use chap5//fig8.jpg>
-Package pdftex.def Info: chap5//fig8.jpg  used on input line 253.
-(pdftex.def)             Requested size: 350.99762pt x 119.52763pt.
-
-[12 <./chap5//fig7.jpg> <./chap5//fig8.jpg>] (./Latexƒ£∞Â - HW.aux) ) 
+Package pdftex.def Info: chap5//fig8.jpg  used on input line 255.
+(pdftex.def)             Requested size: 399.21791pt x 135.952pt.
+[11] [12 <./chap5//fig7.jpg> <./chap5//fig8.jpg>] (./Latexƒ£∞Â - HW.aux) ) 
 Here is how much of TeX's memory you used:
- 4950 strings out of 492982
- 75294 string characters out of 6138551
- 134880 words of memory out of 5000000
- 8373 multiletter control sequences out of 15000+600000
- 52300 words of font info for 187 fonts, out of 8000000 for 9000
+ 5428 strings out of 492982
+ 82424 string characters out of 6138551
+ 149409 words of memory out of 5000000
+ 8839 multiletter control sequences out of 15000+600000
+ 52302 words of font info for 187 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,12n,43p,529b,517s stack positions out of 5000i,500n,10000p,200000b,80000s
-<d:/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><d:/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmbx12.pfb><d:/texlive/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmmi12.pfb><d:/texlive/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmr10.pfb><d:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><d:/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmsy10.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/
-gbsnu00.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu20.pfb><d:/tex
-live/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu30.pfb><d:/texlive/texmf-dist/fon
-ts/type1/arphic/gbsnu/gbsnu4e.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbs
-nu/gbsnu4f.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu50.pfb><d:/
-texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu51.pfb><d:/texlive/texmf-dist/
-fonts/type1/arphic/gbsnu/gbsnu52.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/
-gbsnu/gbsnu53.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu54.pfb><
-d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu56.pfb><d:/texlive/texmf-di
-st/fonts/type1/arphic/gbsnu/gbsnu57.pfb><d:/texlive/texmf-dist/fonts/type1/arph
-ic/gbsnu/gbsnu58.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu59.pf
-b><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5a.pfb><d:/texlive/texmf
--dist/fonts/type1/arphic/gbsnu/gbsnu5b.pfb><d:/texlive/texmf-dist/fonts/type1/a
-rphic/gbsnu/gbsnu5c.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5d
-.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5e.pfb><d:/texlive/te
-xmf-dist/fonts/type1/arphic/gbsnu/gbsnu5f.pfb><d:/texlive/texmf-dist/fonts/type
-1/arphic/gbsnu/gbsnu60.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsn
-u61.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu62.pfb><d:/texlive
-/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu63.pfb><d:/texlive/texmf-dist/fonts/t
-ype1/arphic/gbsnu/gbsnu64.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/g
-bsnu65.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu66.pfb><d:/texl
-ive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu67.pfb><d:/texlive/texmf-dist/font
-s/type1/arphic/gbsnu/gbsnu68.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsn
-u/gbsnu69.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6a.pfb><d:/t
-exlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6b.pfb><d:/texlive/texmf-dist/f
-onts/type1/arphic/gbsnu/gbsnu6c.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/g
-bsnu/gbsnu6d.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6e.pfb><d
-:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6f.pfb><d:/texlive/texmf-dis
-t/fonts/type1/arphic/gbsnu/gbsnu70.pfb><d:/texlive/texmf-dist/fonts/type1/arphi
-c/gbsnu/gbsnu71.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu72.pfb
-><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu73.pfb><d:/texlive/texmf-
-dist/fonts/type1/arphic/gbsnu/gbsnu74.pfb><d:/texlive/texmf-dist/fonts/type1/ar
-phic/gbsnu/gbsnu75.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu76.
-pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu77.pfb><d:/texlive/tex
-mf-dist/fonts/type1/arphic/gbsnu/gbsnu78.pfb><d:/texlive/texmf-dist/fonts/type1
-/arphic/gbsnu/gbsnu79.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu
-7a.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7b.pfb><d:/texlive/
-texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7c.pfb><d:/texlive/texmf-dist/fonts/ty
-pe1/arphic/gbsnu/gbsnu7d.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gb
-snu7e.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7f.pfb><d:/texli
-ve/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu80.pfb><d:/texlive/texmf-dist/fonts
-/type1/arphic/gbsnu/gbsnu81.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu
-/gbsnu82.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu83.pfb><d:/te
-xlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu86.pfb><d:/texlive/texmf-dist/fo
-nts/type1/arphic/gbsnu/gbsnu88.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gb
-snu/gbsnu89.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8a.pfb><d:
-/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8b.pfb><d:/texlive/texmf-dist
-/fonts/type1/arphic/gbsnu/gbsnu8c.pfb><d:/texlive/texmf-dist/fonts/type1/arphic
-/gbsnu/gbsnu8d.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8f.pfb>
-<d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu90.pfb><d:/texlive/texmf-d
-ist/fonts/type1/arphic/gbsnu/gbsnu91.pfb><d:/texlive/texmf-dist/fonts/type1/arp
-hic/gbsnu/gbsnu94.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu95.p
-fb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu96.pfb><d:/texlive/texm
-f-dist/fonts/type1/arphic/gbsnu/gbsnu97.pfb><d:/texlive/texmf-dist/fonts/type1/
-arphic/gbsnu/gbsnu98.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu9
-9.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu9a.pfb><d:/texlive/t
-exmf-dist/fonts/type1/arphic/gbsnu/gbsnu9e.pfb><d:/texlive/texmf-dist/fonts/typ
-e1/arphic/gbsnu/gbsnu9f.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbs
-nuff.pfb>
-Output written on "Latexƒ£∞Â - HW.pdf" (12 pages, 1596667 bytes).
+ 44i,12n,43p,530b,517s stack positions out of 5000i,500n,10000p,200000b,80000s
+<d:/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><d:/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><d:/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmmi10.pfb><d:/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr10.pfb><d:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pf
+b><d:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><d:/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr9.pfb><d:/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmsy10.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu00.pfb
+><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu20.pfb><d:/texlive/texmf-
+dist/fonts/type1/arphic/gbsnu/gbsnu30.pfb><d:/texlive/texmf-dist/fonts/type1/ar
+phic/gbsnu/gbsnu4e.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu4f.
+pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu50.pfb><d:/texlive/tex
+mf-dist/fonts/type1/arphic/gbsnu/gbsnu51.pfb><d:/texlive/texmf-dist/fonts/type1
+/arphic/gbsnu/gbsnu52.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu
+53.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu54.pfb><d:/texlive/
+texmf-dist/fonts/type1/arphic/gbsnu/gbsnu56.pfb><d:/texlive/texmf-dist/fonts/ty
+pe1/arphic/gbsnu/gbsnu57.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gb
+snu58.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu59.pfb><d:/texli
+ve/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5a.pfb><d:/texlive/texmf-dist/fonts
+/type1/arphic/gbsnu/gbsnu5b.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu
+/gbsnu5c.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5d.pfb><d:/te
+xlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5e.pfb><d:/texlive/texmf-dist/fo
+nts/type1/arphic/gbsnu/gbsnu5f.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gb
+snu/gbsnu60.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu61.pfb><d:
+/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu62.pfb><d:/texlive/texmf-dist
+/fonts/type1/arphic/gbsnu/gbsnu63.pfb><d:/texlive/texmf-dist/fonts/type1/arphic
+/gbsnu/gbsnu64.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu65.pfb>
+<d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu66.pfb><d:/texlive/texmf-d
+ist/fonts/type1/arphic/gbsnu/gbsnu67.pfb><d:/texlive/texmf-dist/fonts/type1/arp
+hic/gbsnu/gbsnu68.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu69.p
+fb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6a.pfb><d:/texlive/texm
+f-dist/fonts/type1/arphic/gbsnu/gbsnu6b.pfb><d:/texlive/texmf-dist/fonts/type1/
+arphic/gbsnu/gbsnu6c.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6
+d.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6e.pfb><d:/texlive/t
+exmf-dist/fonts/type1/arphic/gbsnu/gbsnu6f.pfb><d:/texlive/texmf-dist/fonts/typ
+e1/arphic/gbsnu/gbsnu70.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbs
+nu71.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu72.pfb><d:/texliv
+e/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu73.pfb><d:/texlive/texmf-dist/fonts/
+type1/arphic/gbsnu/gbsnu74.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/
+gbsnu75.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu76.pfb><d:/tex
+live/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu77.pfb><d:/texlive/texmf-dist/fon
+ts/type1/arphic/gbsnu/gbsnu78.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbs
+nu/gbsnu79.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7a.pfb><d:/
+texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7b.pfb><d:/texlive/texmf-dist/
+fonts/type1/arphic/gbsnu/gbsnu7c.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/
+gbsnu/gbsnu7d.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7e.pfb><
+d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7f.pfb><d:/texlive/texmf-di
+st/fonts/type1/arphic/gbsnu/gbsnu80.pfb><d:/texlive/texmf-dist/fonts/type1/arph
+ic/gbsnu/gbsnu81.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu82.pf
+b><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu83.pfb><d:/texlive/texmf
+-dist/fonts/type1/arphic/gbsnu/gbsnu86.pfb><d:/texlive/texmf-dist/fonts/type1/a
+rphic/gbsnu/gbsnu88.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu89
+.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8a.pfb><d:/texlive/te
+xmf-dist/fonts/type1/arphic/gbsnu/gbsnu8b.pfb><d:/texlive/texmf-dist/fonts/type
+1/arphic/gbsnu/gbsnu8c.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsn
+u8d.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8f.pfb><d:/texlive
+/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu90.pfb><d:/texlive/texmf-dist/fonts/t
+ype1/arphic/gbsnu/gbsnu91.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/g
+bsnu94.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu95.pfb><d:/texl
+ive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu96.pfb><d:/texlive/texmf-dist/font
+s/type1/arphic/gbsnu/gbsnu97.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsn
+u/gbsnu98.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu99.pfb><d:/t
+exlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu9a.pfb><d:/texlive/texmf-dist/f
+onts/type1/arphic/gbsnu/gbsnu9e.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/g
+bsnu/gbsnu9f.pfb><d:/texlive/texmf-dist/fonts/type1/arphic/gbsnu/gbsnuff.pfb>
+Output written on "Latexƒ£∞Â - HW.pdf" (12 pages, 1607724 bytes).
 PDF statistics:
- 393 PDF objects out of 1000 (max. 8388607)
- 280 compressed objects within 3 object streams
+ 397 PDF objects out of 1000 (max. 8388607)
+ 283 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
