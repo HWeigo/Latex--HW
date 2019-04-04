@@ -1,4 +1,4 @@
-\documentclass[11pt]{article}  
+\documentclass[a4paper, 11pt]{article}   %设置字号11pt以及A4页面
 \usepackage{CJK}               %引入CJK宏包
 \usepackage{multirow}
 \usepackage{indentfirst} %引入首行缩进宏包
@@ -9,12 +9,16 @@
 \usepackage{geometry}
 \usepackage{graphicx, subfig}
 \usepackage{fancyhdr}
+\usepackage{setspace}%使用间距宏包
 
-\geometry{left=3.0cm, right = 3cm, bottom = 3.5cm}       %设置页边距
+
+\geometry{left=3.1cm, right = 3.1cm, bottom = 3.5cm}       %设置页边距
 \setlength{\parindent}{2em} %设置首行缩进两字节
 
 \begin{document}               %begin与end成对出现
 \begin{CJK}{UTF8}{gbsn}        %应用CJK环境
+
+\begin{spacing}{1.15} %%行间距变为1.15
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %页眉&页脚
  \pagestyle{fancy}
@@ -256,7 +260,7 @@ M3508无刷直流电机工作电压为24v，最高功率可达220w，最大扭�
 \caption{编码器溢出算法}
 \end{figure}
 
-
+\end{spacing}
 \end{CJK}
 \end{document}
 
