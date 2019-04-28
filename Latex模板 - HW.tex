@@ -10,6 +10,8 @@
 \usepackage{graphicx, subfig}
 \usepackage{fancyhdr}
 \usepackage{setspace}%使用间距宏包
+\usepackage{amsmath} 
+\usepackage{amssymb} 
 
 
 \geometry{left=3.1cm, right = 3.1cm, bottom = 3.5cm}       %设置页边距
@@ -130,10 +132,36 @@
 
 推荐软件：Mathpix Snipping Tool, 截图生成代码。\par
 $$K仪\varepsilon仪 = \frac { \Delta R _ { 1 } } { R _ { 1 } } - \frac { \Delta R _ { 2 } } { R _ { 2 } } + \frac { \Delta R _ { 4 } } { R _ { 4 } } - \frac { \Delta R _ { 3 } } { R _ { 3 } } \\ =  \mathrm { K } \varepsilon _ { 1 } - \mathrm { K } \varepsilon _ { 2 } + \mathrm { K } \varepsilon _ { 4 } - \mathrm { K } \varepsilon _ { 3 }$$
+
+$$d_{safe} = \frac{v_{back}^2-v_{front}^2}{2a}$$
 式中：\\
 k - 仪器灵敏系数指示值\\
 $\varepsilon$ - 仪器读数$\mu\varepsilon$\\
 K - 电阻应变片的灵敏系数\\
+
+分段函数两种表示方法，使用宏包amsmath。
+$$smooth_{L_{1}}(x)=\begin{cases}0.5x^{2}, &\left |x \right |\leq 1 \cr \left |x \right|-0.5, &otherwise\end{cases}$$
+
+大于等于语句$\backslash geq $，小于等于语句$\backslash leq $。
+
+$$
+d_{safe}=
+\begin{cases}
+d_{follow}+d_{length}, &v_{front}\geq v_{back} 
+\cr 
+d_{follow}+d_{length}+d_{break}, &v_{back}>v_{front}
+\end{cases}
+$$
+
+\begin{equation}
+f(x)=\left\{
+\begin{aligned}
+x & = & \cos(t) \\
+y & = & \sin(t) \\
+z & = & \frac xy
+\end{aligned}
+\right.
+\end{equation}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsection{表格}
